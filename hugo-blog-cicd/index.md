@@ -1,10 +1,7 @@
 ---
 title: Hugo 博客的 CI/CD
 summary: 常规中又带有一丝不同。如果你想解耦博客的框架与内容，或是想隐藏博客的框架代码，那么我的经验可能会给你一些帮助。
-tags:
-  - blog
-  - hugo
-  - githu
+tags: [blog, hugo, github]
 date: 2023-11-16
 lastmod: 2023-11-16
 ---
