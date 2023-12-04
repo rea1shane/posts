@@ -3,7 +3,7 @@ title: 镜子
 summary: 吾日三省吾身。
 tags: [thought]
 date: 2021-11-23
-lastmod: 2023-12-01
+lastmod: 2023-12-04
 ---
 
 世界上最遥远的距离是“知道”和“做到”。
@@ -17,3 +17,11 @@ lastmod: 2023-12-01
 程序员尤其要小心这种错觉，千万不要看完教材或文档，就认为自己掌握了某项技能，**一定要自己动手用它做过项目，才算学会**。
 
 [相关链接](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident)
+
+## 停止抱怨，提升自己
+
+> 每当你认为别人毁了你的生活时，实际上是你自己毁了你的生活。受害者心态是一种非常有害的心态。
+>
+> 如果你换一种心态：无论情况多糟糕，这始终是你自己的问题，并且你尽力来解决它。我认为这更有效。
+>
+> —— Charles Thomas Munger
