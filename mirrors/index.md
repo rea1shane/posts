@@ -3,7 +3,7 @@ title: 镜子
 summary: 吾日三省吾身。
 tags: [thought]
 date: 2021-11-23
-lastmod: 2024-01-26
+lastmod: 2024-02-28
 ---
 
 世界上最遥远的距离是“知道”和“做到”。
@@ -49,3 +49,11 @@ lastmod: 2024-01-26
 ## 临渊羡鱼，不如退而结网
 
 种一棵树最好的时机是 10 年前，其次是现在。
+
+## 直面问题
+
+你可以逃避现实，但你无法逃避“逃避现实”的后果。
+
+You can avoid reality, but you cannot avoid the consequences of avoiding reality.
+
+—— Ayn Rand
