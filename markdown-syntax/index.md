@@ -324,17 +324,17 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 
 ## 其他
 
-| 名称   | 语法                                                   | 效果                                                 |
-| ------ | ------------------------------------------------------ | ---------------------------------------------------- |
-| 粗体   | `**bold**`                                             | **bold**                                             |
-| 斜体   | `_italics_`                                            | _italics_                                            |
+| 名称  | 语法                                                     | 效果                                                   |
+| --- | ------------------------------------------------------ | ---------------------------------------------------- |
+| 粗体  | `**bold**`                                             | **bold**                                             |
+| 斜体  | `_italics_`                                            | _italics_                                            |
 | 粗斜体 | `_**text**_`                                           | _**text**_                                           |
 | 删除线 | `~~delete~~`                                           | ~~delete~~                                           |
-| 缩写   | `<abbr title="Graphics Interchange Format">GIF</abbr>` | <abbr title="Graphics Interchange Format">GIF</abbr> |
-| 下标   | `H<sub>2</sub>O`                                       | H<sub>2</sub>O                                       |
-| 上标   | `X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>`        | X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>        |
-| 按键   | `<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd>`     | <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd>     |
-| 标记   | `<mark>mark</mark>`                                    | <mark>mark</mark>                                    |
+| 缩写  | `<abbr title="Graphics Interchange Format">GIF</abbr>` | <abbr title="Graphics Interchange Format">GIF</abbr> |
+| 下标  | `H<sub>2</sub>O`                                       | H<sub>2</sub>O                                       |
+| 上标  | `X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>`        | X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>        |
+| 按键  | `<kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd>` | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> |
+| 标记  | `<mark>mark</mark>`                                    | <mark>mark</mark>                                    |
 
 ## 相关链接
 
