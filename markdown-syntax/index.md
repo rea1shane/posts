@@ -1,10 +1,9 @@
 ---
 title: Markdown 语法
 summary: 一些基本的示例。
-tags:
-  - markdown
+tags: [markdown]
 date: 2020-10-02
-lastmod: 2023-11-10
+lastmod: 2024-03-13
 ---
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
@@ -43,6 +42,10 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 
 ## Paragraph 段落
 
+{{< admonition note >}}
+不同的段落之间需要有一行空行，如果没有空行的话会被视为同一段落，回车符会被视为空格。
+{{< /admonition >}}
+
 语法：
 
 ```
@@ -64,28 +67,16 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 块引用表示从其他来源引用的内容。语法：
 
 ```
-> > > 这是一段描述。
-> >
-> > 这点还不错！
-> >
-> > > 这是另一段描述。
-> >
-> > 这个就差点意思...
+> > 引用的引用。
 >
-> 这些都是引用。
+> 引用。
 ```
 
 效果：
 
-> > > 这是一段描述。
-> >
-> > 这点还不错！
-> >
-> > > 这是另一段描述。
-> >
-> > 这个就差点意思...
+> > 引用的引用。
 >
-> 这些都是引用。
+> 引用。
 
 ## Footnote 脚注
 
@@ -150,63 +141,119 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 语法：
 
     ```
-    <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <meta charset="utf-8" />
-            <title>Example HTML5 Document</title>
-        </head>
-        <body>
-            <p>Test</p>
-        </body>
-    </html>
+	package main
+	
+	import "fmt"
+	
+	func main() {
+		// hi
+		fmt.Println("Hello, World!")
+	}
     ```
 
 效果：
 
 ```
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
+package main
+
+import "fmt"
+
+func main() {
+	// hi
+	fmt.Println("Hello, World!")
+}
 ```
 
 可以在前面的三个反引号后声明代码的语言种类，语法：
 
-    ```html
-    <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <meta charset="utf-8" />
-            <title>Example HTML5 Document</title>
-            <meta name="description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements.">
-        </head>
-        <body>
-            <p>Test</p>
-        </body>
-    </html>
-    ```
+	```go
+	package main
+	
+	import "fmt"
+	
+	// calculateSquares calculates the sum of the squares of the digits of the given number
+	// and sends the result to the squareop channel.
+	func calculateSquares(number int, squareop chan int) {
+		sum := 0
+		for number != 0 {
+			digit := number % 10
+			sum += digit * digit
+			number /= 10
+		}
+		squareop <- sum
+	}
+	
+	// calculateCubes calculates the sum of the cubes of the digits of the given number
+	// and sends the result to the cubeop channel.
+	func calculateCubes(number int, cubeop chan int) {
+		sum := 0
+		for number != 0 {
+			digit := number % 10
+			sum += digit * digit * digit
+			number /= 10
+		}
+		cubeop <- sum
+	}
+	
+	func main() {
+		number := 589
+		sqrch := make(chan int)
+		cubech := make(chan int)
+	
+		// Start two goroutines to calculate the sum of squares and cubes of the digits.
+		go calculateSquares(number, sqrch)
+		go calculateCubes(number, cubech)
+	
+		// Receive the results from the channels and add them.
+		squares, cubes := <-sqrch, <-cubech
+		fmt.Println("Final result", squares+cubes)
+	}
+	```
 
 效果：
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-        <meta name="description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements.">
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
+```go
+package main
+
+import "fmt"
+
+// calculateSquares calculates the sum of the squares of the digits of the given number
+// and sends the result to the squareop channel.
+func calculateSquares(number int, squareop chan int) {
+	sum := 0
+	for number != 0 {
+		digit := number % 10
+		sum += digit * digit
+		number /= 10
+	}
+	squareop <- sum
+}
+
+// calculateCubes calculates the sum of the cubes of the digits of the given number
+// and sends the result to the cubeop channel.
+func calculateCubes(number int, cubeop chan int) {
+	sum := 0
+	for number != 0 {
+		digit := number % 10
+		sum += digit * digit * digit
+		number /= 10
+	}
+	cubeop <- sum
+}
+
+func main() {
+	number := 589
+	sqrch := make(chan int)
+	cubech := make(chan int)
+
+	// Start two goroutines to calculate the sum of squares and cubes of the digits.
+	go calculateSquares(number, sqrch)
+	go calculateCubes(number, cubech)
+
+	// Receive the results from the channels and add them.
+	squares, cubes := <-sqrch, <-cubech
+	fmt.Println("Final result", squares+cubes)
+}
 ```
 
 #### 通过四个空格声明
@@ -214,30 +261,26 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 语法：
 
 ```
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+	package main
+	
+	import "fmt"
+	
+	func main() {
+		// hi
+		fmt.Println("Hello, World!")
+	}
 ```
 
 效果：
 
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+	package main
+	
+	import "fmt"
+	
+	func main() {
+		// hi
+		fmt.Println("Hello, World!")
+	}
 
 ## List 列表
 
