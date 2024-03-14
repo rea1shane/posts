@@ -353,6 +353,16 @@ func main() {
 
 ![图片加载失败时显示的文字](assets/example.png "鼠标悬浮时的提示")
 
+GIF 同理，语法：
+
+```
+![GIF 加载失败时显示的文字](assets/example.gif "鼠标悬浮时的提示")
+```
+
+效果：
+
+![GIF 加载失败时显示的文字](assets/example.gif "鼠标悬浮时的提示")
+
 ## Dividing line 分割线
 
 语法：
