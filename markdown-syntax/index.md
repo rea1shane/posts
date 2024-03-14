@@ -3,7 +3,7 @@ title: Markdown 语法
 summary: 一些基本的示例。
 tags: [markdown]
 date: 2020-10-02
-lastmod: 2024-03-13
+lastmod: 2024-03-14
 ---
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
@@ -376,7 +376,7 @@ func main() {
 | 缩写  | `<abbr title="Graphics Interchange Format">GIF</abbr>` | <abbr title="Graphics Interchange Format">GIF</abbr> |
 | 下标  | `H<sub>2</sub>O`                                       | H<sub>2</sub>O                                       |
 | 上标  | `X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>`        | X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>        |
-| 按键  | `<kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd>` | <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> |
+| 按键  | `<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Delete</kbd>` | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Delete</kbd> |
 | 标记  | `<mark>mark</mark>`                                    | <mark>mark</mark>                                    |
 
 ## 相关链接
