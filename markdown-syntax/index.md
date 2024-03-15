@@ -3,7 +3,7 @@ title: Markdown 语法
 summary: 一些基本的示例。
 tags: [markdown]
 date: 2020-10-02
-lastmod: 2024-03-14
+lastmod: 2024-03-16
 ---
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
@@ -364,6 +364,22 @@ GIF 同理，语法：
 效果：
 
 ![GIF 加载失败时显示的文字](assets/example.gif "鼠标悬浮时的提示")
+
+## Video 视频
+
+语法：
+
+```html
+<video width="100%" controls poster="assets/poster.png" preload="auto">
+    <source src="assets/example.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+```
+
+<video width="100%" controls poster="assets/poster.png" preload="auto">
+    <source src="assets/example.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## Dividing line 分割线
 
