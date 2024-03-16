@@ -367,6 +367,10 @@ GIF 同理，语法：
 
 ## Video 视频
 
+{{< admonition tip >}}
+本示例视频包含声音。
+{{< /admonition >}}
+
 语法：
 
 ```html
@@ -375,6 +379,8 @@ GIF 同理，语法：
     Your browser does not support the video tag.
 </video>
 ```
+
+效果：
 
 <video width="100%" controls poster="assets/poster.png" preload="auto" playsinline>
     <source src="assets/example.mp4" type="video/mp4">
