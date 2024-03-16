@@ -370,13 +370,13 @@ GIF 同理，语法：
 语法：
 
 ```html
-<video width="100%" controls poster="assets/poster.png" preload="auto">
+<video width="100%" controls poster="assets/poster.png" preload="auto" playsinline>
     <source src="assets/example.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 ```
 
-<video width="100%" controls poster="assets/poster.png" preload="auto">
+<video width="100%" controls poster="assets/poster.png" preload="auto" playsinline>
     <source src="assets/example.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
