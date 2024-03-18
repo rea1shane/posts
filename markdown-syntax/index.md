@@ -383,6 +383,8 @@ GIF 同理，语法：
     Your browser does not support the video tag.
 </video>
 
+<!-- [为了让 post.png 不被自动清理插件清除](poster.png) -->
+
 ## Dividing line 分割线
 
 语法：
