@@ -209,6 +209,18 @@ draft: true
 >
 > —— Mars
 
+### Tyche-One
+
+![来源：https://www.zfrontier.com/app/flow/9QjzmaBWBNga](assets/image-20240319225910198.png)
+
+- **设计者**：Chaucer
+- **高度**：Cherry 原厂高度
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2022 年 9 月 8 日
+- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/9QjzmaBWBNga)
+
 ## 轴体
 
 ## 行话 & 黑话
