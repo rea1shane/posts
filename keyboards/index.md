@@ -110,12 +110,24 @@ draft: true
 
 ### 2048
 
+![来源：https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794](assets/image-20240319220130288.png)
+
 - **设计者**：Biip
-- **制造商**：PBTfans
+- **制造商**：EnjoyPBT
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2019 年 4 月 19 日
+- **相关链接**：[KeebTalk](https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794)
+
+> Heavily inspired by the [AEKII](https://deskthority.net/wiki/Apple_Extended_Keyboard_II), the main idea was to create an icon based keyset with a neo-retro look, inspired by old Apple keyboards. I wanted to have something with a minimalistic but intuitive look, which explains the icons mods!
+>
+> I took time to re-think the kits, get rid of the useless stuff and basically made it simpler.
+>
+> —— Biip
+
+心目中最好看的一套键帽，刚入圈的时候就被这套键帽吸引，几年过去了，还是没有一套键帽可以取代它在我心目中的地位。
 
 ### Retro100
 
@@ -209,7 +221,7 @@ Revision 1, Revision 2, Revision 3…
 
 ### 套件
 
-#### 配列 / WK / WKL / HHKB / 大门牙 / 小门牙 / 无门牙
+#### 配列 / WK / WKL / HHKB / 大门牙 / 小门牙 / 无门牙 / TKL
 
 #### 焊接 / 热插拔
 
