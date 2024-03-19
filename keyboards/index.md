@@ -106,6 +106,16 @@ draft: true
 - **购入版本**：Cherry G80-3007 的浅灰，WKL
 - **购入价格**：￥399
 
+### Harpe 65
+
+![来源：https://www.zfrontier.com/app/flow/293YaqglXwXO](assets/image-20240319222207845.png)
+
+- **设计者**：404
+- **配列**：65%
+- **发售时间**：2022 年 10 月 23 日
+- **发售价格**：￥999 起
+- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/LalzmdmQERqW)
+
 ## 键帽
 
 ### 2048
