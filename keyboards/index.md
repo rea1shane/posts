@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-03-12
+lastmod: 2024-03-19
 draft: true
 ---
 
@@ -20,21 +20,21 @@ draft: true
 
 ### Navi 70
 
-![](assets/image-20240310154150707.png)
+![来源：https://www.zfrontier.com/app/flow/bO79L6qR6rQV](assets/image-20240318231953819.png)
 
 - **设计者**：Matrix Lab
 - **配列**：70%
-- **购入版本**：阳极银，小门牙
 - **发售时间**：2023 年 05 月 10 日
 - **发售价格**：￥3500
 - **购入时间**：2024 年 03 月 08 日
+- **购入版本**：阳极银，小门牙
 - **购入价格**：￥2650
 
 心目中的 70% 配列的最佳套件。
 
 ### SONIC 170
 
-![](assets/image-20240306131746453.png)
+![来源：https://www.zfrontier.com/app/flow/P50l5ByOvNqo](assets/image-20240318235355087.png)
 
 - **设计者**：rien
 - **配列**：70%
@@ -44,7 +44,7 @@ draft: true
 
 ### PT990
 
-![](assets/image-20240310153749730.png)
+![来源：https://www.zfrontier.com/app/flow/8Xwg7KRWnWgm](assets/image-20240318232628309.png)
 
 - **设计者**：Percent Studio
 - **配列**：65%
@@ -54,7 +54,7 @@ draft: true
 
 ### Space 65
 
-![](assets/image-20240310155258140.png)
+![来源：https://www.zfrontier.com/app/flow/0lQmnMjMvP8O](assets/image-20240318234933072.png)
 
 - **设计者**：Gray Studio
 - **版本**：R3
@@ -65,7 +65,7 @@ draft: true
 
 ### Razor 65
 
-![](assets/image-20240307132734990.png)
+![来源：https://www.zfrontier.com/app/flow/EPobwwPArmB5](assets/image-20240319131608330.png)
 
 - **设计者**：TWP WORKS
 - **配列**：65%
@@ -75,7 +75,7 @@ draft: true
 
 ### 8XV 3.0
 
-![](assets/image-20240312132137723.png)
+![来源：https://www.zfrontier.com/app/flow/m58dwMPn9GJb](assets/image-20240318235738323.png)
 
 - **设计者**：Matrix Lab
 - **配列**：80%
@@ -85,7 +85,7 @@ draft: true
 
 ### Class 80
 
-![](assets/image-20240312130517784.png)
+![来源：https://www.zfrontier.com/app/flow/eVkAxAmNzApw](assets/image-20240319000220407.png)
 
 - **设计者**：M-M Studio
 - **配列**：80%
@@ -93,11 +93,33 @@ draft: true
 - **发售价格**：￥1950 起
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/VL9EObV1Mjzm)
 
+### NCR 80
+
+![来源：https://www.zfrontier.com/app/flow/MyXYodVEVEdv](assets/image-20240317230441366.jpeg)
+
+- **设计者**：九九
+- **配列**：80%
+- **发售时间**：2021 年 4 月 6 日
+- **发售价格**：￥399 起
+- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/D7OvzYkKp7rE)
+- **购入时间**：2024 年 03 月 17 日
+- **购入版本**：Cherry G80-3007 的浅灰，WKL
+- **购入价格**：￥399
+
 ## 键帽
+
+### 2048
+
+- **设计者**：Biip
+- **制造商**：PBTfans
+- **高度**：Cherry 原厂高度
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
 
 ### Retro100
 
-![](assets/image-20240310152742450.png)
+![来源：https://www.zfrontier.com/app/flow/LAOGkRM6lMAB](assets/image-20240319133032376.jpeg)
 
 - **设计者**：Mars
 - **制造商**：PBTfans
@@ -106,10 +128,10 @@ draft: true
 - **工艺**：二色 + 热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2024 年 1 月 31 日
-- **购入时间**：2024 年 3 月 10 日
-- **购入 Kit**：Icon Base + Rainbow Icon + Relegendables + Spacebars
-- **购入价格**：￥599 + ￥199 + ￥119 + ￥89 = ￥1,006
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/LAOGkRM6lMAB)
+- **购入时间**：2024 年 3 月 10 日
+- **购入 Kit(s)**：Icon Base + Rainbow Icon + Relegendables + Spacebars
+- **购入价格**：￥599 + ￥199 + ￥119 + ￥89 = ￥1,006
 
 > 灵感来源于佳能于 1982 年自产搭载牙膏 8088cpu 的 micro computer：AS-100 基本配色来源于 AS-100 配套键盘上的键帽，点缀颜色以及图形设计来源于 AS-100 宣传海报上电脑系统的配色和 UI。
 >
@@ -117,7 +139,7 @@ draft: true
 
 ### Poco
 
-![](assets/image-20240311130839806.png)
+![来源：https://kbdfans.com/products/pbtfans-poco](assets/image-20240311130839806.png)
 
 - **设计者**：LYKKO STUDIO
 - **制造商**：PBTfans
@@ -126,10 +148,10 @@ draft: true
 - **工艺**：二色
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2023 年 4 月 28 日
-- **购入时间**：2023 年 5 月 30 日
-- **购入 Kit**：Base + Alphas
-- **购入价格**：￥659 + ￥179 = ￥838
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/ElqWxwZOX1GM)
+- **购入时间**：2023 年 5 月 30 日
+- **购入 Kit(s)**：Base + Alphas
+- **购入价格**：￥659 + ￥179 = ￥838
 
 > 你是否曾有过这种感觉，就是明明有很多事情等待你去完成却又什么都不想做，而只想摆烂的心情？这就是 Poco 今天的心情，也是这套键帽的设计灵感。
 >
@@ -143,7 +165,7 @@ draft: true
 
 ### Retro Dark Lights
 
-![](assets/image-20240310153614090.png)
+![来源：https://www.zfrontier.com/app/flow/6A9XodX6bkOP](assets/image-20240319132835802.png)
 
 - **设计者**：Mars
 - **制造商**：PBTfans
@@ -152,12 +174,12 @@ draft: true
 - **工艺**：二色
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2023 年 2 月 24 日
-- **购入时间**：2023 年 5 月 30 日
-- **购入 Kit**：Extra Base
-- **购入价格**：￥450
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/LZ1A9JWY1NYl)
+- **购入时间**：2023 年 5 月 30 日
+- **购入 Kit(s)**：Extra Base
+- **购入价格**：￥450
 
-> ![](assets/image-20240312134004172.png)
+> ![来源：https://www.zfrontier.com/app/flow/LZ1A9JWY1NYl](assets/image-20240319133113224.png)
 >
 > 与 Retro-Lights 不同，Retro Dark Lights 的灵感来源是 Mac OS Dark 模式。
 >
@@ -169,19 +191,31 @@ draft: true
 
 ## 行话 & 黑话
 
-### 配列
+### 通用
 
-### IC
+#### IC
 
 Interest Check 兴趣度调查，是产品正式发售前的一个阶段，具体为发布一些产品相关的信息看看大家对其的兴趣度，顺便也会收集一些改进建议，以便在产品正式发售前对其进行调整。
 
-### GB
+#### GB
 
 Group Buy 团购，是客制化键盘的发售阶段，因为很多客制化键盘都是小工作室设计出来的，没有资金去造大量的键盘，所以会选择团购集资造键盘的方式。
 
-### QC
+#### QC
 
-### 键帽中的 R1, R2, R3…
+#### R1, R2, R3…
+
+Revision 1, Revision 2, Revision 3…
+
+### 套件
+
+#### 配列 / WK / WKL / HHKB / 大门牙 / 小门牙 / 无门牙
+
+#### 焊接 / 热插拔
+
+### 键帽
+
+#### R1, R2, R3…
 
 没有找到官方的解释，猜测可能是 Row 1, Row 2, Row 3…
 
@@ -203,11 +237,7 @@ Group Buy 团购，是客制化键盘的发售阶段，因为很多客制化键�
 1. SA 高球帽，首先这里要分清球帽与普通键帽的区别；其次，高球就是高度较高的球帽，也有 R1-R4 四种不同高度。
 1. DSA 矮球帽，顾名思义，就是高度较矮的球帽（俗称平胸），但不同的是 DSA 整体是没有高度区别的。
 
-### 键盘型号中的 R1, R2, R3…
-
-Revision 1, Revision 2, Revision 3…
-
-### 个性键帽
+#### Kit / 大全套 / 小全套 / 个性
 
 ## 相关链接
 
