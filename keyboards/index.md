@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-03-19
+lastmod: 2024-03-21
 draft: true
 ---
 
@@ -222,6 +222,15 @@ draft: true
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/9QjzmaBWBNga)
 
 ## 轴体
+
+这个东西太主观了，我是说不清道不楚。感觉随便买买就好了。
+
+用过的轴体列表：
+
+- TTC 快银轴
+- TTC Hey 轴
+- VERTEX V1 轴
+- Creatkeebs 海粟轴
 
 ## 行话 & 黑话
 
