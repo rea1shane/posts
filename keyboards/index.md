@@ -4,7 +4,6 @@ summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
 lastmod: 2024-03-29
-draft: true
 ---
 
 最开始的我只是想要一把打游戏用的机械键盘，当时对键盘的认知还停留在 Cherry、红黑茶轴等入门常见的名词上。在拥有了一把 87 键配列的键盘后，又不经意刷到了一把 65% 配列的键盘，小巧精致的外观刷新了我对键盘的认识。当了解到这是一个名叫 KDBfans 的工作室推出的“客制化键盘”，不经意间我就滚向了这个来易去难的大坑。
@@ -265,7 +264,7 @@ draft: true
 
 ### Hey 轴
 
-![](assets/image-20240328235752385.png)
+![来源：https://www.zfrontier.com/app/flow/DYkbpKWl1wWr](assets/image-20240328235752385.png)
 
 - **设计者**：Xikii
 - **制造商**：TTC
@@ -282,3 +281,23 @@ draft: true
 - **发售时间**：2021 年 7 月 8 日
 - **发售价格**：￥3/颗
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/DYkbpKWl1wWr)
+
+## 快银轴
+
+![来源：http://www.ttc9.com/product/141.html](assets/image-20240329001238769.png)
+
+- **设计者**：TTC
+- **制造商**：TTC
+- **类型**：MX 型三脚线性轴
+- **上盖材质**：PC
+- **下盖材质**：尼龙
+- **轴心材质**：POM
+- **弹簧类型**：双段加长弹簧
+- **初始力度**：39gf
+- **触发力度**：45gf
+- **触底力度**：55gf
+- **触发行程**：1.08mm
+- **触底行程**：3.4mm
+- **发售时间**：2021 年 3 月 29 日
+- **发售价格**：￥3.4/颗
+- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/DA9E85K8PdzG)
