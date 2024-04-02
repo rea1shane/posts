@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-03-31
+lastmod: 2024-04-02
 ---
 
 最开始的我只是想要一把打游戏用的机械键盘，当时对键盘的认知还停留在 Cherry、红黑茶轴等入门常见的名词上。在选购键盘的时候不经意刷到了一把 65% 配列的键盘，从未见过的小巧精致的外观刷新了我对键盘的印象。当了解到这是一个名叫 KDBfans 的工作室推出的“客制化键盘”，不经意间我就滚向了这个来易去难的大坑。
@@ -244,3 +244,16 @@ lastmod: 2024-03-31
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/J7Wan3x0vrJR)
 - **购入时间**：2024 年 3 月 31 日
 - **购入价格**：￥189
+
+### 月球人
+
+![来源：https://www.zfrontier.com/app/flow/29oyOxEkKk3O](assets/image-20240402133922724.png)
+
+- **设计者**：Mink
+- **制造商**：Geekark
+- **高度**：Cherry 原厂高度
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2021 年 5 月 15 日
+- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/29oyOxEkKk3O)
