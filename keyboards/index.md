@@ -142,7 +142,7 @@ lastmod: 2024-04-04
 
 ### 2048
 
-![来源：https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794](assets/image-20240319220130288.png)
+![来源未知](assets/image-20240404120039170.png)
 
 - **设计者**：Biip
 - **制造商**：EnjoyPBT
