@@ -39,7 +39,7 @@ lastmod: 2024-04-06
 - **配列**：Alice
 - **发售时间**：2022 年 1 月 11 日
 - **发售价格**：￥2100 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/4XLWOk7jXMKl)
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/4XLWOk7jXMKl)
 - **购入时间**：2023 年 8 月 1 日
 - **购入版本**：电泳奶咖
 - **购入价格**：￥1450 + ￥445 + ￥65 = ￥1960 （亖条复刻外壳 + 原装内胆 + 细总定位板）
@@ -52,7 +52,7 @@ lastmod: 2024-04-06
 - **配列**：70%
 - **发售时间**：2023 年 6 月 28 日
 - **发售价格**：￥1799 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/wJ9bg5ZpvMXp)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/wJ9bg5ZpvMXp)
 
 ### PT990
 
@@ -62,7 +62,7 @@ lastmod: 2024-04-06
 - **配列**：65%
 - **发售时间**：2022 年 10 月 7 日
 - **发售价格**：￥2699 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/pvaxm9BgkwyO)
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/pvaxm9BgkwyO)
 
 ### Space 65
 
@@ -73,7 +73,7 @@ lastmod: 2024-04-06
 - **配列**：65%
 - **发售时间**：2022 年 1 月 13 号
 - **发售价格**：￥2299 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/2JkkaEAxjzaM) | [YouTube](https://www.youtube.com/watch?v=XqE8re3CsGU)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/2JkkaEAxjzaM) | [组装视频](https://www.youtube.com/watch?v=XqE8re3CsGU)
 
 ### Razor 65
 
@@ -83,7 +83,7 @@ lastmod: 2024-04-06
 - **配列**：65%
 - **发售时间**：2023 年 2 月 28 日
 - **发售价格**：￥949 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/xA3gZqmxjyyM)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/xA3gZqmxjyyM)
 
 ### 8XV 3.0
 
@@ -93,7 +93,7 @@ lastmod: 2024-04-06
 - **配列**：80%
 - **发售时间**：2022 年 1 月 17 日
 - **发售价格**：￥3300 起
-- **相关链接**：[石墨文档](https://shimo.im/docs/WGK89JQCYrRvjqtk/read)
+- **相关链接**：[GB](https://shimo.im/docs/WGK89JQCYrRvjqtk/read)
 
 ### Class 80
 
@@ -103,7 +103,7 @@ lastmod: 2024-04-06
 - **配列**：80%
 - **发售时间**：2023 年 10 月 25 日
 - **发售价格**：￥1950 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/VL9EObV1Mjzm)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/VL9EObV1Mjzm)
 
 ### NCR 80
 
@@ -113,7 +113,7 @@ lastmod: 2024-04-06
 - **配列**：80%
 - **发售时间**：2021 年 4 月 6 日
 - **发售价格**：￥399 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/D7OvzYkKp7rE)
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/D7OvzYkKp7rE)
 - **购入时间**：2024 年 3 月 17 日
 - **购入版本**：R2，Cherry G80-3007 的浅灰，WKL
 - **购入价格**：￥399
@@ -126,7 +126,7 @@ lastmod: 2024-04-06
 - **配列**：65%
 - **发售时间**：2022 年 10 月 23 日
 - **发售价格**：￥999 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/LalzmdmQERqW)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/LalzmdmQERqW)
 
 ### AQUILA
 
@@ -136,7 +136,7 @@ lastmod: 2024-04-06
 - **配列**：65%
 - **发售时间**：2022 年 8 月 2 日
 - **发售价格**：￥1399 起
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/enkazVPQjgyg)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/enkazVPQjgyg)
 
 ## 键帽
 
@@ -151,7 +151,7 @@ lastmod: 2024-04-06
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2019 年 4 月 19 日
-- **相关链接**：[KeebTalk](https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794)
+- **相关链接**：[GB](https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794)
 
 > Heavily inspired by the [AEKII](https://deskthority.net/wiki/Apple_Extended_Keyboard_II), the main idea was to create an icon based keyset with a neo-retro look, inspired by old Apple keyboards. I wanted to have something with a minimalistic but intuitive look, which explains the icons mods!
 >
@@ -172,7 +172,7 @@ lastmod: 2024-04-06
 - **工艺**：二色 + 热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2024 年 1 月 31 日
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/LAOGkRM6lMAB)
+- **相关链接**：[发售预告](https://www.zfrontier.com/app/flow/LAOGkRM6lMAB)
 - **购入时间**：2024 年 3 月 10 日
 - **购入 Kit(s)**：Icon Base + Rainbow Icon + Relegendables + Spacebars
 - **购入价格**：￥599 + ￥199 + ￥119 + ￥89 = ￥1,006
@@ -192,7 +192,7 @@ lastmod: 2024-04-06
 - **工艺**：二色
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2023 年 4 月 28 日
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/ElqWxwZOX1GM)
+- **相关链接**：[发售预告](https://www.zfrontier.com/app/flow/ElqWxwZOX1GM)
 - **购入时间**：2023 年 5 月 30 日
 - **购入 Kit(s)**：Base + Alphas
 - **购入价格**：￥659 + ￥179 = ￥838
@@ -218,7 +218,7 @@ lastmod: 2024-04-06
 - **工艺**：二色
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2023 年 2 月 24 日
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/LZ1A9JWY1NYl)
+- **相关链接**：[发售预告](https://www.zfrontier.com/app/flow/LZ1A9JWY1NYl)
 - **购入时间**：2023 年 5 月 30 日
 - **购入 Kit(s)**：Extra Base
 - **购入价格**：￥450
@@ -241,7 +241,7 @@ lastmod: 2024-04-06
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2022 年 9 月 8 日
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/9QjzmaBWBNga)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/9QjzmaBWBNga)
 
 ### 喵兜
 
@@ -254,7 +254,7 @@ lastmod: 2024-04-06
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2024 年 1 月 11 日
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/J7Wan3x0vrJR)
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/J7Wan3x0vrJR)
 - **购入时间**：2024 年 3 月 31 日
 - **购入价格**：￥189
 
@@ -269,7 +269,7 @@ lastmod: 2024-04-06
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2021 年 5 月 15 日
-- **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/29oyOxEkKk3O)
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/29oyOxEkKk3O)
 
 ### ЯUBBER
 
@@ -282,7 +282,7 @@ lastmod: 2024-04-06
 - **工艺**：二次 / 三次成型
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2022 年 9 月 30 日
-- **相关链接**：[IC](https://www.zfrontier.com/app/flow/2dbnamM9Xy9X) | [购买](https://www.zfrontier.com/app/mch/lGQw8zzppkkB)
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/2dbnamM9Xy9X) | [购买链接](https://www.zfrontier.com/app/mch/lGQw8zzppkkB)
 
 > 这套键帽的设计灵感来源于前苏联创作出来的橡皮管动画风格（Rubber Hose drawing style）。
 >
