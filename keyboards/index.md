@@ -21,7 +21,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240318231953819.png "来源：https://www.zfrontier.com/app/flow/bO79L6qR6rQV")
 
-- **设计者**：Matrix Lab
+- **设计**：Matrix Lab
 - **配列**：70%
 - **发售时间**：2023 年 5 月 10 日
 - **发售价格**：￥3500
@@ -35,7 +35,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240404114635025.jpeg "来源：https://www.zfrontier.com/app/flow/4Km1OrdRJoK9")
 
-- **设计者**：OwLab
+- **设计**：OwLab
 - **配列**：Alice
 - **发售时间**：2022 年 1 月 11 日
 - **发售价格**：￥2100 起
@@ -48,7 +48,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240318235355087.png "来源：https://www.zfrontier.com/app/flow/P50l5ByOvNqo")
 
-- **设计者**：rien
+- **设计**：rien
 - **配列**：70%
 - **发售时间**：2023 年 6 月 28 日
 - **发售价格**：￥1799 起
@@ -58,7 +58,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240318232628309.png "来源：https://www.zfrontier.com/app/flow/8Xwg7KRWnWgm")
 
-- **设计者**：Percent Studio
+- **设计**：Percent Studio
 - **配列**：65%
 - **发售时间**：2022 年 10 月 7 日
 - **发售价格**：￥2699 起
@@ -68,7 +68,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240318234933072.png "来源：https://www.zfrontier.com/app/flow/0lQmnMjMvP8O")
 
-- **设计者**：Gray Studio
+- **设计**：Gray Studio
 - **版本**：R3
 - **配列**：65%
 - **发售时间**：2022 年 1 月 13 号
@@ -79,7 +79,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240319131608330.png "来源：https://www.zfrontier.com/app/flow/EPobwwPArmB5")
 
-- **设计者**：TWP WORKS
+- **设计**：TWP WORKS
 - **配列**：65%
 - **发售时间**：2023 年 2 月 28 日
 - **发售价格**：￥949 起
@@ -89,7 +89,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240318235738323.png "来源：https://www.zfrontier.com/app/flow/m58dwMPn9GJb")
 
-- **设计者**：Matrix Lab
+- **设计**：Matrix Lab
 - **配列**：80%
 - **发售时间**：2022 年 1 月 17 日
 - **发售价格**：￥3300 起
@@ -99,7 +99,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240406144426669.png "来源：https://www.zfrontier.com/app/flow/K3zO5Xk7rBk9")
 
-- **设计者**：M-M Studio
+- **设计**：M-M Studio
 - **配列**：80%
 - **发售时间**：2023 年 10 月 25 日
 - **发售价格**：￥1950 起
@@ -109,7 +109,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240317230441366.jpeg "来源：https://www.zfrontier.com/app/flow/MyXYodVEVEdv")
 
-- **设计者**：九九
+- **设计**：九九
 - **配列**：80%
 - **发售时间**：2021 年 4 月 6 日
 - **发售价格**：￥399 起
@@ -122,7 +122,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240319222207845.png "来源：https://www.zfrontier.com/app/flow/293YaqglXwXO")
 
-- **设计者**：404
+- **设计**：404
 - **配列**：65%
 - **发售时间**：2022 年 10 月 23 日
 - **发售价格**：￥999 起
@@ -132,7 +132,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240331223013575.jpeg "来源：https://www.zfrontier.com/app/flow/W0EmdPZL6NNN")
 
-- **设计者**：K 星工作室
+- **设计**：K 星工作室
 - **配列**：65%
 - **发售时间**：2022 年 8 月 2 日
 - **发售价格**：￥1399 起
@@ -142,7 +142,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240406164009613.png "来源：https://www.zfrontier.com/app/flow/wwPby75zBKx6")
 
-- **设计者**：Openkey Design
+- **设计**：Openkey Design
 - **配列**：40%
 - **发售时间**：2023 年 3 月 18 日
 - **发售价格**：￥1849 起
@@ -152,7 +152,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240406165245943.jpeg "来源：https://www.zfrontier.com/app/flow/PGBKmpZkKEr1")
 
-- **设计者**：Openkey Design
+- **设计**：Openkey Design
 - **配列**：65%
 - **发售时间**：2021 年 9 月 24 日
 - **发售价格**：￥2897 起
@@ -164,8 +164,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240404120039170.png)
 
-- **设计者**：Biip
-- **制造商**：EnjoyPBT
+- **设计**：Biip
+- **制造**：EnjoyPBT
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
 - **工艺**：热升华
@@ -193,8 +193,8 @@ lastmod: 2024-04-06
 
 <!-- [](assets/image-20240406163549076.png) -->
 
-- **设计者**：FreshFromTheGrave
-- **制造商**：Keyreative
+- **设计**：FreshFromTheGrave
+- **制造**：Keyreative
 - **高度**：KAM
 - **材质**：PBT
 - **工艺**：热升华
@@ -208,8 +208,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240406162653668.png "来源：https://www.zfrontier.com/app/flow/N3a8w1rRoPjx")
 
-- **设计者**：Biip
-- **制造商**：GMK
+- **设计**：Biip
+- **制造**：GMK
 - **高度**：Cherry 原厂高度
 - **材质**：ABS
 - **工艺**：二色
@@ -223,8 +223,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240319133032376.jpeg "来源：https://www.zfrontier.com/app/flow/LAOGkRM6lMAB")
 
-- **设计者**：Mars
-- **制造商**：PBTfans
+- **设计**：Mars
+- **制造**：PBTfans
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
 - **工艺**：二色（四颗特殊 <kbd>R</kbd> <kbd>G</kbd> <kbd>B</kbd> <kbd>Y</kbd> 为热升华）
@@ -243,8 +243,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240311130839806.png "来源：https://kbdfans.com/products/pbtfans-poco")
 
-- **设计者**：LYKKO STUDIO
-- **制造商**：PBTfans
+- **设计**：LYKKO STUDIO
+- **制造**：PBTfans
 - **高度**：Cherry 原厂高度
 - **材质**：ABS
 - **工艺**：二色
@@ -269,8 +269,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240319132835802.png "来源：https://www.zfrontier.com/app/flow/6A9XodX6bkOP")
 
-- **设计者**：Mars
-- **制造商**：PBTfans
+- **设计**：Mars
+- **制造**：PBTfans
 - **高度**：Cherry 原厂高度
 - **材质**：PBT（Extra Base Kit 为 ABS）
 - **工艺**：二色
@@ -293,7 +293,7 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240319225910198.png "来源：https://www.zfrontier.com/app/flow/9QjzmaBWBNga")
 
-- **设计者**：Chaucer
+- **设计**：Chaucer
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
 - **工艺**：热升华
@@ -305,8 +305,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240331213532782.png "来源：https://www.zfrontier.com/app/flow/gdgBpY7jOX9v")
 
-- **设计者**：KeyBye Lab
-- **制造商**：恩溶科技
+- **设计**：KeyBye Lab
+- **制造**：恩溶科技
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
 - **工艺**：热升华
@@ -320,8 +320,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240402133922724.png "来源：https://www.zfrontier.com/app/flow/29oyOxEkKk3O")
 
-- **设计者**：Mink
-- **制造商**：Geekark
+- **设计**：Mink
+- **制造**：Geekark
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
 - **工艺**：热升华
@@ -333,8 +333,8 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240406145343985.png "来源：https://www.zfrontier.com/app/flow/DrpzW33knjZn")
 
-- **设计者**：Manuel
-- **制造商**：Domikey
+- **设计**：Manuel
+- **制造**：Domikey
 - **高度**：Cherry 原厂高度
 - **材质**：ABS
 - **工艺**：二色 / 三色
