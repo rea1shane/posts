@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-04-04
+lastmod: 2024-04-06
 ---
 
 最开始的我只是想要一把打游戏用的机械键盘，当时对键盘的认知还停留在 Cherry、红黑茶轴等入门常见的名词上。在选购键盘的时候不经意刷到了一把 65% 配列的键盘，从未见过的小巧精致的外观刷新了我对键盘的印象。当了解到这是一个名叫 KDBfans 的工作室推出的“客制化键盘”，不经意间我就滚向了这个来易去难的大坑。
@@ -19,7 +19,7 @@ lastmod: 2024-04-04
 
 ### Navi 70
 
-![来源：https://www.zfrontier.com/app/flow/bO79L6qR6rQV](assets/image-20240318231953819.png)
+![](assets/image-20240318231953819.png "来源：https://www.zfrontier.com/app/flow/bO79L6qR6rQV")
 
 - **设计者**：Matrix Lab
 - **配列**：70%
@@ -33,7 +33,7 @@ lastmod: 2024-04-04
 
 ### Spring
 
-![来源：https://www.zfrontier.com/app/flow/4Km1OrdRJoK9](assets/image-20240404114635025.jpeg)
+![](assets/image-20240404114635025.jpeg "来源：https://www.zfrontier.com/app/flow/4Km1OrdRJoK9")
 
 - **设计者**：OwLab
 - **配列**：Alice
@@ -46,7 +46,7 @@ lastmod: 2024-04-04
 
 ### SONIC 170
 
-![来源：https://www.zfrontier.com/app/flow/P50l5ByOvNqo](assets/image-20240318235355087.png)
+![](assets/image-20240318235355087.png "来源：https://www.zfrontier.com/app/flow/P50l5ByOvNqo")
 
 - **设计者**：rien
 - **配列**：70%
@@ -56,7 +56,7 @@ lastmod: 2024-04-04
 
 ### PT990
 
-![来源：https://www.zfrontier.com/app/flow/8Xwg7KRWnWgm](assets/image-20240318232628309.png)
+![](assets/image-20240318232628309.png "来源：https://www.zfrontier.com/app/flow/8Xwg7KRWnWgm")
 
 - **设计者**：Percent Studio
 - **配列**：65%
@@ -66,7 +66,7 @@ lastmod: 2024-04-04
 
 ### Space 65
 
-![来源：https://www.zfrontier.com/app/flow/0lQmnMjMvP8O](assets/image-20240318234933072.png)
+![](assets/image-20240318234933072.png "来源：https://www.zfrontier.com/app/flow/0lQmnMjMvP8O")
 
 - **设计者**：Gray Studio
 - **版本**：R3
@@ -77,7 +77,7 @@ lastmod: 2024-04-04
 
 ### Razor 65
 
-![来源：https://www.zfrontier.com/app/flow/EPobwwPArmB5](assets/image-20240319131608330.png)
+![](assets/image-20240319131608330.png "来源：https://www.zfrontier.com/app/flow/EPobwwPArmB5")
 
 - **设计者**：TWP WORKS
 - **配列**：65%
@@ -87,7 +87,7 @@ lastmod: 2024-04-04
 
 ### 8XV 3.0
 
-![来源：https://www.zfrontier.com/app/flow/m58dwMPn9GJb](assets/image-20240318235738323.png)
+![](assets/image-20240318235738323.png "来源：https://www.zfrontier.com/app/flow/m58dwMPn9GJb")
 
 - **设计者**：Matrix Lab
 - **配列**：80%
@@ -97,7 +97,7 @@ lastmod: 2024-04-04
 
 ### Class 80
 
-![来源：https://www.zfrontier.com/app/flow/Kk7bEqVd0lLP](assets/image-20240328214716089.png)
+![](assets/image-20240328214716089.png "来源：https://www.zfrontier.com/app/flow/Kk7bEqVd0lLP")
 
 - **设计者**：M-M Studio
 - **配列**：80%
@@ -107,7 +107,7 @@ lastmod: 2024-04-04
 
 ### NCR 80
 
-![来源：https://www.zfrontier.com/app/flow/MyXYodVEVEdv](assets/image-20240317230441366.jpeg)
+![](assets/image-20240317230441366.jpeg "来源：https://www.zfrontier.com/app/flow/MyXYodVEVEdv")
 
 - **设计者**：九九
 - **配列**：80%
@@ -120,7 +120,7 @@ lastmod: 2024-04-04
 
 ### Harpe 65
 
-![来源：https://www.zfrontier.com/app/flow/293YaqglXwXO](assets/image-20240319222207845.png)
+![](assets/image-20240319222207845.png "来源：https://www.zfrontier.com/app/flow/293YaqglXwXO")
 
 - **设计者**：404
 - **配列**：65%
@@ -130,7 +130,7 @@ lastmod: 2024-04-04
 
 ### AQUILA
 
-![来源：https://www.zfrontier.com/app/flow/W0EmdPZL6NNN](assets/image-20240331223013575.jpeg)
+![](assets/image-20240331223013575.jpeg "来源：https://www.zfrontier.com/app/flow/W0EmdPZL6NNN")
 
 - **设计者**：K 星工作室
 - **配列**：65%
@@ -142,7 +142,7 @@ lastmod: 2024-04-04
 
 ### 2048
 
-![来源未知](assets/image-20240404120039170.png)
+![](assets/image-20240404120039170.png)
 
 - **设计者**：Biip
 - **制造商**：EnjoyPBT
@@ -163,7 +163,7 @@ lastmod: 2024-04-04
 
 ### Retro100
 
-![来源：https://www.zfrontier.com/app/flow/LAOGkRM6lMAB](assets/image-20240319133032376.jpeg)
+![](assets/image-20240319133032376.jpeg "来源：https://www.zfrontier.com/app/flow/LAOGkRM6lMAB")
 
 - **设计者**：Mars
 - **制造商**：PBTfans
@@ -183,7 +183,7 @@ lastmod: 2024-04-04
 
 ### Poco
 
-![来源：https://kbdfans.com/products/pbtfans-poco](assets/image-20240311130839806.png)
+![](assets/image-20240311130839806.png "来源：https://kbdfans.com/products/pbtfans-poco")
 
 - **设计者**：LYKKO STUDIO
 - **制造商**：PBTfans
@@ -209,7 +209,7 @@ lastmod: 2024-04-04
 
 ### Retro Dark Lights
 
-![来源：https://www.zfrontier.com/app/flow/6A9XodX6bkOP](assets/image-20240319132835802.png)
+![](assets/image-20240319132835802.png "来源：https://www.zfrontier.com/app/flow/6A9XodX6bkOP")
 
 - **设计者**：Mars
 - **制造商**：PBTfans
@@ -223,7 +223,7 @@ lastmod: 2024-04-04
 - **购入 Kit(s)**：Extra Base
 - **购入价格**：￥450
 
-> ![来源：https://www.zfrontier.com/app/flow/LZ1A9JWY1NYl](assets/image-20240319133113224.png)
+> ![](assets/image-20240319133113224.png "来源：https://www.zfrontier.com/app/flow/LZ1A9JWY1NYl")
 >
 > 与 Retro-Lights 不同，Retro Dark Lights 的灵感来源是 Mac OS Dark 模式。
 >
@@ -233,7 +233,7 @@ lastmod: 2024-04-04
 
 ### Tyche-One
 
-![来源：https://www.zfrontier.com/app/flow/9QjzmaBWBNga](assets/image-20240319225910198.png)
+![](assets/image-20240319225910198.png "来源：https://www.zfrontier.com/app/flow/9QjzmaBWBNga")
 
 - **设计者**：Chaucer
 - **高度**：Cherry 原厂高度
@@ -245,7 +245,7 @@ lastmod: 2024-04-04
 
 ### 喵兜
 
-![来源：https://www.zfrontier.com/app/flow/6AgGO1Rpv5a5](assets/image-20240331213532782.png)
+![](assets/image-20240331213532782.png "来源：https://www.zfrontier.com/app/flow/gdgBpY7jOX9v")
 
 - **设计者**：KeyBye Lab
 - **制造商**：恩溶科技
@@ -260,7 +260,7 @@ lastmod: 2024-04-04
 
 ### 月球人
 
-![来源：https://www.zfrontier.com/app/flow/29oyOxEkKk3O](assets/image-20240402133922724.png)
+![](assets/image-20240402133922724.png "来源：https://www.zfrontier.com/app/flow/29oyOxEkKk3O")
 
 - **设计者**：Mink
 - **制造商**：Geekark
