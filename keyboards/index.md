@@ -138,6 +138,16 @@ lastmod: 2024-04-06
 - **发售价格**：￥1399 起
 - **相关链接**：[GB](https://www.zfrontier.com/app/flow/enkazVPQjgyg)
 
+### TPS 40
+
+![](assets/image-20240406164009613.png "来源：https://www.zfrontier.com/app/flow/wwPby75zBKx6")
+
+- **设计者**：Openkey Design
+- **配列**：40%
+- **发售时间**：2023 年 3 月 18 日
+- **发售价格**：￥1849 起
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/7paR8OyQ7Lnn) | [GB](https://www.zfrontier.com/app/flow/mdG0VdKEQ87a)
+
 ## 键帽
 
 ### 2048
