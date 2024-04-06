@@ -150,7 +150,7 @@ lastmod: 2024-04-06
 
 ### Phase One 65
 
-![](image-20240406221831946.jpeg "来源：https://www.zfrontier.com/app/flow/PGBKmpZkKEr1")
+![](assets/image-20240406221831946.jpeg "来源：https://www.zfrontier.com/app/flow/PGBKmpZkKEr1")
 
 - **设计**：Openkey Design
 - **配列**：65%
