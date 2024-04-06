@@ -97,7 +97,7 @@ lastmod: 2024-04-06
 
 ### Class 80
 
-![](assets/image-20240328214716089.png "来源：https://www.zfrontier.com/app/flow/Kk7bEqVd0lLP")
+![](assets/image-20240406144426669.png "来源：https://www.zfrontier.com/app/flow/K3zO5Xk7rBk9")
 
 - **设计者**：M-M Studio
 - **配列**：80%
