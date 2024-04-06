@@ -180,6 +180,21 @@ lastmod: 2024-04-06
 
 除了爱了，其他说不出什么了。
 
+### Dots
+
+![](assets/image-20240406162653668.png "来源：https://www.zfrontier.com/app/flow/N3a8w1rRoPjx")
+
+- **设计者**：Biip
+- **制造商**：GMK
+- **高度**：Cherry 原厂高度
+- **材质**：ABS
+- **工艺**：二色
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2021 年 2 月 5 日
+- **相关链接**：[GB](https://geekhack.org/index.php?topic=111031.0) | [购买链接](https://www.zfrontier.com/app/mch/lqXN8wb2zN31)
+
+又是 Biip 的作品，很有想法的一套键帽，字符让我想起 [Flow Circular](https://fonts.google.com/specimen/Flow+Circular) 字体。
+
 ### Retro100
 
 ![](assets/image-20240319133032376.jpeg "来源：https://www.zfrontier.com/app/flow/LAOGkRM6lMAB")
@@ -188,7 +203,7 @@ lastmod: 2024-04-06
 - **制造商**：PBTfans
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
-- **工艺**：二色 + 热升华
+- **工艺**：二色（四颗特殊 <kbd>R</kbd> <kbd>G</kbd> <kbd>B</kbd> <kbd>Y</kbd> 为热升华）
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2024 年 1 月 31 日
 - **相关链接**：[发售预告](https://www.zfrontier.com/app/flow/LAOGkRM6lMAB)
@@ -298,7 +313,7 @@ lastmod: 2024-04-06
 - **制造商**：Domikey
 - **高度**：Cherry 原厂高度
 - **材质**：ABS
-- **工艺**：二次 / 三次成型
+- **工艺**：二色 / 三色
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2022 年 9 月 30 日
 - **相关链接**：[IC](https://www.zfrontier.com/app/flow/2dbnamM9Xy9X) | [购买链接](https://www.zfrontier.com/app/mch/lGQw8zzppkkB)
