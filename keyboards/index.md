@@ -270,3 +270,20 @@ lastmod: 2024-04-06
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2021 年 5 月 15 日
 - **相关链接**：[zFrontier](https://www.zfrontier.com/app/flow/29oyOxEkKk3O)
+
+### ЯUBBER
+
+![](assets/image-20240406145343985.png "来源：https://www.zfrontier.com/app/flow/DrpzW33knjZn")
+
+- **设计者**：Manuel
+- **制造商**：Domikey
+- **高度**：Cherry 原厂高度
+- **材质**：ABS
+- **工艺**：二次 / 三次成型
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2022 年 9 月 30 日
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/2dbnamM9Xy9X) | [购买](https://www.zfrontier.com/app/mch/lGQw8zzppkkB)
+
+> 这套键帽的设计灵感来源于前苏联创作出来的橡皮管动画风格（Rubber Hose drawing style）。
+>
+> —— Manuel
