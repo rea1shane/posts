@@ -148,6 +148,16 @@ lastmod: 2024-04-06
 - **发售价格**：￥1849 起
 - **相关链接**：[IC](https://www.zfrontier.com/app/flow/7paR8OyQ7Lnn) | [GB](https://www.zfrontier.com/app/flow/mdG0VdKEQ87a)
 
+### Phase One 65
+
+![](assets/image-20240406165245943.jpeg "来源：https://www.zfrontier.com/app/flow/PGBKmpZkKEr1")
+
+- **设计者**：Openkey Design
+- **配列**：65%
+- **发售时间**：2021 年 9 月 24 日
+- **发售价格**：￥2897 起
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/2g8QlmxGvkbo)
+
 ## 键帽
 
 ### 2048
