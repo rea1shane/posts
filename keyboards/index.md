@@ -66,7 +66,7 @@ lastmod: 2024-04-06
 
 ### Space 65
 
-![](assets/image-20240318234933072.png "来源：https://www.zfrontier.com/app/flow/0lQmnMjMvP8O")
+![](assets/image-20240406170853667.jpeg "来源：https://www.zfrontier.com/app/flow/2JkkaEAxjzaM")
 
 - **设计**：Gray Studio
 - **版本**：R3
