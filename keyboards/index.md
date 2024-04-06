@@ -161,6 +161,25 @@ lastmod: 2024-04-06
 
 心目中最好看的一套键帽，刚入圈的时候就被这套键帽吸引，几年过去了，还是没有一套键帽可以取代它在我心目中的地位。
 
+### Superuser
+
+![](assets/image-20240406153701688.png "来源：https://novelkeys.com/products/kam-superuser")
+
+<video width="100%" controls preload="auto" playsinline>
+    <source src="assets/a8416377aef349eabde589a0748b49de.HD-1080p-7.2Mbps-16064652.mp4" type="video/mp4">
+</video>
+
+- **设计者**：FreshFromTheGrave
+- **制造商**：Keyreative
+- **高度**：KAM
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2021 年 2 月 1 日
+- **相关链接**：[GB](https://geekhack.org/index.php?topic=110967.0) | [购买链接](https://www.zfrontier.com/app/mch/lqXN8wb2zN31)
+
+除了爱了，其他说不出什么了。
+
 ### Retro100
 
 ![](assets/image-20240319133032376.jpeg "来源：https://www.zfrontier.com/app/flow/LAOGkRM6lMAB")
