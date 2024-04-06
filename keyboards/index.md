@@ -165,9 +165,13 @@ lastmod: 2024-04-06
 
 ![](assets/image-20240406153701688.png "来源：https://novelkeys.com/products/kam-superuser")
 
-<video width="100%" controls preload="auto" playsinline>
+预告片：
+
+<video width="100%" controls poster="assets/image-20240406163549076.png" preload="auto" playsinline>
     <source src="assets/a8416377aef349eabde589a0748b49de.HD-1080p-7.2Mbps-16064652.mp4" type="video/mp4">
 </video>
+
+<!-- [](assets/image-20240406163549076.png) -->
 
 - **设计者**：FreshFromTheGrave
 - **制造商**：Keyreative
