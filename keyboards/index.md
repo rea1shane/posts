@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-04-06
+lastmod: 2024-04-07
 ---
 
 最开始的我只是想要一把打游戏用的机械键盘，当时对键盘的认知还停留在 Cherry、红黑茶轴等入门常见的名词上。在选购键盘的时候不经意刷到了一把 65% 配列的键盘，从未见过的小巧精致的外观刷新了我对键盘的印象。当了解到这是一个名叫 KDBfans 的工作室推出的“客制化键盘”，不经意间我就滚向了这个来易去难的大坑。
@@ -227,7 +227,7 @@ lastmod: 2024-04-06
 - **制造**：PBTfans
 - **高度**：Cherry 原厂高度
 - **材质**：PBT
-- **工艺**：二色（四颗特殊 <kbd>R</kbd> <kbd>G</kbd> <kbd>B</kbd> <kbd>Y</kbd> 为热升华）
+- **工艺**：二色（四颗特殊 <kbd>R</kbd> <kbd>G</kbd> <kbd>B</kbd> <kbd>Y</kbd> 键帽为热升华工艺）
 - **兼容性**：Cherry MX 开关和 MX 类似风格
 - **发售时间**：2024 年 1 月 31 日
 - **相关链接**：[发售预告](https://www.zfrontier.com/app/flow/LAOGkRM6lMAB)
