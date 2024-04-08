@@ -344,12 +344,12 @@ func main() {
 语法：
 
 ```
-![图片加载失败时显示的文字](assets/example.png "鼠标悬浮时的提示")
+![图片加载失败时显示的文字](assets/example.webp "鼠标悬浮时的提示")
 ```
 
 效果：
 
-![图片加载失败时显示的文字](assets/example.png "鼠标悬浮时的提示")
+![图片加载失败时显示的文字](assets/example.webp "鼠标悬浮时的提示")
 
 GIF 同理，语法：
 
@@ -370,7 +370,7 @@ GIF 同理，语法：
 语法：
 
 ```html
-<video width="100%" controls poster="assets/poster.png" preload="auto" playsinline>
+<video width="100%" controls poster="assets/poster.webp" preload="auto" playsinline>
     <source src="assets/example.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
@@ -378,12 +378,12 @@ GIF 同理，语法：
 
 效果：
 
-<video width="100%" controls poster="assets/poster.png" preload="auto" playsinline>
+<video width="100%" controls poster="assets/poster.webp" preload="auto" playsinline>
     <source src="assets/example.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
-<!-- [为了让 post.png 不被自动清理插件清除](poster.png) -->
+<!-- [为了让 post.webp 不被自动清理插件清除](poster.webp) -->
 
 ## Dividing line 分割线
 
