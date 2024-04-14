@@ -117,12 +117,13 @@ GItHub 支持创建 [PAT](https://docs.github.com/en/authentication/keeping-your
 
 在提交之前，可以在按钮的上方看到所有设置的概览，它应当与这个类似：
 
-![](assets/image-20231108132713719.png)
+![](assets/image-20231108132713719.webp)
 
 确认提交之后，页面上会显示 PAT 的值以及其详细信息，保存 PAT 的值以供后续步骤使用。
 
-> **注意**：你**有且仅有一次机会复制 token 的内容**！刷新页面后就没有机会再找回 PAT 的值了。如果你因为各种原因丢失了 PAT 的值，可以通过 **Regenerate token** 按钮再生成一次。
-
+{{< admonition warning >}}
+你**有且仅有一次机会复制 token 的内容**！刷新页面后就没有机会再找回 PAT 的值了。如果你因为各种原因丢失了 PAT 的值，可以通过 **Regenerate token** 按钮再生成一次。
+{{< /admonition >}}
 ### 将 PAT 添加到框架仓库的 secrets 中
 
 在创建完 PAT 后，还需将其添加到框架仓库的 secrets 中，这样仓库中的工作流才可以安全地使用该 token，进而拥有 token 对应的权限。
@@ -237,7 +238,7 @@ curl -L \
 
 提交按钮上方的概览应当与这个类似：
 
-![](assets/image-20231108175834773.png)
+![](assets/image-20231108175834773.webp)
 
 创建完 PAT 后，需要将其添加到博文仓库的 secrets 中。
 
@@ -452,15 +453,15 @@ jobs:
 
 PAT `POSTS_GIT_TOKEN`：
 
-![](assets/image-20231116154459568.png)
+![](assets/image-20231116154459568.webp)
 
 PAT `WEBSITE_GIT_TOKEN`：
 
-![](assets/image-20231116154606953.png)
+![](assets/image-20231116154606953.webp)
 
 PAT `WEBSITE_GH_ACTIONS_TOKEN`：
 
-![](assets/image-20231116154655354.png)
+![](assets/image-20231116154655354.webp)
 
 ## 相关链接
 
