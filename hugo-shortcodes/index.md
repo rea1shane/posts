@@ -16,6 +16,8 @@ shortcode 的好处是抽象了 HTML 片段，一次定义多次调用，大大�
 
 ## 自定义
 
+要自定义 shortcode，需要将 HTML 源码放到 `layouts/shortcodes` 目录下，HTML 文件的名称即为 shortcode 的名称。
+
 ### Admonition 提醒
 
 {{< admonition note >}}
