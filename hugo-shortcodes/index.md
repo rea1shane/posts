@@ -85,20 +85,16 @@ Fork from [martignoni/hugo-notice: A Hugo theme component to display nice notice
 要想让 shortcode 在页面中不渲染，而是显示其源代码，需要在 shortcode 中添加 `/* */`，如：
 
 ```
-{{</* gist jmooring 23932424365401ffa5e9d9810102a477 list.html */>}}
-
 {{</* admonition note */>}}
-Useful information that users should know, even when skimming content.
+用户即使在略读内容时也应该了解的有用信息。
 {{</* /admonition */>}}
 ```
 
 变为：
 
 ```
-{{</*/* gist jmooring 23932424365401ffa5e9d9810102a477 list.html */*/>}}
-
 {{</*/* admonition note */*/>}}
-Useful information that users should know, even when skimming content.
+用户即使在略读内容时也应该了解的有用信息。
 {{</*/* /admonition */*/>}}
 ```
 
