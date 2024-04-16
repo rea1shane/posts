@@ -1,19 +1,16 @@
 ---
 title: 一周的第一天
 summary: 到底哪一天是一周的第一天？
-tags:
-  - tips
+tags: [tips]
 date: 2023-03-12
-lastmod: 2023-03-12
+lastmod: 2024-04-16
 ---
 
-一周的第一天是**星期一**。
+一周的第一天是 <mark>星期一</mark>。
 
 > beginning with Monday and ending with Sunday.
 >
-> —— ISO 8601[^1]
-
-[^1]: [ISO 8601 - Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
+> —— [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)
 
 在查找资料的过程中，看到了 V2EX 帖子 [全世界只有我们按数字给星期排序吗？](https://www.v2ex.com/t/914483) 下的 [回复](https://www.v2ex.com/t/914483#r_12668430) ，理清楚了我们现在使用的星期的前生今世：
 
