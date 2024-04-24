@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-04-08
+lastmod: 2024-04-24
 ---
 
 最开始的我只是想要一把打游戏用的机械键盘，当时对键盘的认知还停留在 Cherry、红黑茶轴等入门常见的名词上。在选购键盘的时候不经意刷到了一把 65% 配列的键盘，从未见过的小巧精致的外观刷新了我对键盘的印象。当了解到这是一个名叫 KBDfans 的工作室推出的“客制化键盘”，不经意间我就滚向了这个来易去难的大坑。
@@ -184,14 +184,6 @@ lastmod: 2024-04-08
 ### Superuser
 
 ![](assets/image-20240406153701688.webp "来源：https://novelkeys.com/products/kam-superuser")
-
-预告片：
-
-<video width="100%" controls poster="assets/image-20240406163549076.webp" preload="auto" playsinline>
-    <source src="assets/a8416377aef349eabde589a0748b49de.HD-1080p-7.2Mbps-16064652.mp4" type="video/mp4">
-</video>
-
-<!-- [](assets/image-20240406163549076.webp) -->
 
 - **设计**：FreshFromTheGrave
 - **制造**：Keyreative
