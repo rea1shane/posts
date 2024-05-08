@@ -124,6 +124,7 @@ GItHub 支持创建 [PAT](https://docs.github.com/en/authentication/keeping-your
 {{< admonition warning >}}
 你**有且仅有一次机会复制 token 的内容**！刷新页面后就没有机会再找回 PAT 的值了。如果你因为各种原因丢失了 PAT 的值，可以通过 **Regenerate token** 按钮再生成一次。
 {{< /admonition >}}
+
 ### 将 PAT 添加到框架仓库的 secrets 中
 
 在创建完 PAT 后，还需将其添加到框架仓库的 secrets 中，这样仓库中的工作流才可以安全地使用该 token，进而拥有 token 对应的权限。
@@ -169,7 +170,7 @@ GItHub 支持创建 [PAT](https://docs.github.com/en/authentication/keeping-your
 
 [^6]: 如果没有进行额外配置，`peaceiris/actions-gh-pages` 会将代码部署在 `gh-pages` 分支。如果你需要的话，可以按照 [文档](https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-set-another-github-pages-branch-publish_branch) 进行自定义配置。
 
-## 更多的的自动化
+## 更多的自动化
 
 在搭建好博客后，一般只会修改博文仓库，并且希望在更新完博文仓库后博客可以自动的更新部署。但是现在存在一个问题：博文仓库和框架仓库是通过 submodule 联系在一起的，框架仓库没有办法自动感知到博文仓库的更新，博客的 CI/CD 又是由框架仓库的内容变更触发的，这就导致在更新完博文仓库后博客不会有任何变化。所以接下来还需要再做一些事情，让整个流程更加的通畅。
 
