@@ -90,7 +90,7 @@ jobs:
 
 ### 创建用于部署代码的 PAT
 
-GItHub 支持创建 [PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) 来为一些需要认证的操作授权。在上文的场景中，框架仓库需要一个 PAT 来帮助它获得博文仓库的写入权限。
+GitHub 支持创建 [PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) 来为一些需要认证的操作授权。在上文的场景中，框架仓库需要一个 PAT 来帮助它获得博文仓库的写入权限。
 
 要到 PAT 的管理页面 [^1]，可以直接访问链接 https://github.com/settings/tokens?type=beta 或按照以下步骤：
 
