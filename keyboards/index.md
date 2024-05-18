@@ -3,7 +3,7 @@ title: 键盘
 summary: Toys & Tools
 tags: [keyboard]
 date: 2024-03-06
-lastmod: 2024-04-24
+lastmod: 2024-05-18
 ---
 
 最开始的我只是想要一把打游戏用的机械键盘，当时对键盘的认知还停留在 Cherry、红黑茶轴等入门常见的名词上。在选购键盘的时候不经意刷到了一把 65% 配列的键盘，从未见过的小巧精致的外观刷新了我对键盘的印象。当了解到这是一个名叫 KBDfans 的工作室推出的“客制化键盘”，不经意间我就滚向了这个来易去难的大坑。
@@ -337,3 +337,28 @@ lastmod: 2024-04-24
 > 这套键帽的设计灵感来源于前苏联创作出来的橡皮管动画风格（Rubber Hose drawing style）。
 >
 > —— Manuel
+
+### Pure Player: Vibrato
+
+![](assets/image-20240518234214321.png "来源：https://www.zfrontier.com/app/flow/oyBLwOkldr5w")
+
+- **设计**：Mars
+- **制造**：Keykobo
+- **高度**：Cherry 原厂高度
+- **材质**：ABS
+- **工艺**：二色
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2024 年 4 月 23 日
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/3qMypGv397qA)
+
+> 设计将从声音/音乐及其周边器材入手，设计出一些区别于“Retro”系列风格的设计。
+>
+> 此系列配色会更加简洁，如 Pure Player 的名字一样，希望键帽的设计也能足够纯净纯粹，就像音乐一样。
+>
+> [设计灵感](https://www.bilibili.com/video/BV1ss411d7UC/)
+>
+> 声音原本是看不见摸不着的东西，但是却存在一种使声音看的见的技术。
+>
+> 藉由震动沙子或液体让声波可视化，从达芬奇开始就不断有跨界的科学家与艺术家在探索这种来自大自然的“共振”之美。
+>
+> —— Mars
