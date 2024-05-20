@@ -151,56 +151,51 @@ lastmod: 2024-05-20
 
 ## 键帽
 
-### 2048
+### ASTHA
 
-![](assets/image-20240404120039170.webp)
+![](assets/image-20240519000457632.png "来源：https://www.zfrontier.com/app/flow/6PyBRZpwzAdm")
 
-- **设计**：Biip
-- **制造**：EnjoyPBT
-- **高度**：Cherry 原厂高度
-- **材质**：PBT
-- **工艺**：热升华
-- **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2019 年 4 月 19 日
-- **相关链接**：[GB](https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794)
-
-> Heavily inspired by the [AEKII](https://deskthority.net/wiki/Apple_Extended_Keyboard_II), the main idea was to create an icon based keyset with a neo-retro look, inspired by old Apple keyboards. I wanted to have something with a minimalistic but intuitive look, which explains the icons mods!
->
-> I took time to re-think the kits, get rid of the useless stuff and basically made it simpler.
->
-> —— Biip
-
-心目中最好看的一套键帽，刚入圈的时候就被这套键帽吸引，几年过去了，还是没有一套键帽可以取代它在我心目中的地位。
-
-### Superuser
-
-![](assets/image-20240406153701688.webp "来源：https://novelkeys.com/products/kam-superuser")
-
-- **设计**：FreshFromTheGrave
+- **设计**：Dazon
 - **制造**：Keyreative
 - **高度**：KAM
 - **材质**：PBT
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2021 年 2 月 1 日
-- **相关链接**：[GB](https://geekhack.org/index.php?topic=110967.0) | [购买链接](https://www.zfrontier.com/app/mch/lqXN8wb2zN31)
+- **发售时间**：2024 年 5 月 31 日
+- **相关链接**：[IC](https://geekhack.org/index.php?topic=122481.0)
 
-除了爱了，其他说不出什么了。
+> 在另一个与我们的宇宙相似的宇宙中，存在一个名为 {ASTHA} 的星球。为了了解他们，我们必须进行交流。为了交流，我们必须能够打字。
+>
+> 这套键帽是 {ASTHAN} 语言的体现，适用于简单的英文翻译。
+>
+> 请重视使用它们。获取他们的智慧。
+>
+> —— Dazon
 
-### Dots
+### Pure Player: Vibrato
 
-![](assets/image-20240406162653668.webp "来源：https://www.zfrontier.com/app/flow/N3a8w1rRoPjx")
+![](assets/image-20240518234214321.png "来源：https://www.zfrontier.com/app/flow/oyBLwOkldr5w")
 
-- **设计**：Biip
-- **制造**：GMK
+- **设计**：Mars
+- **制造**：Keykobo
 - **高度**：Cherry 原厂高度
 - **材质**：ABS
 - **工艺**：二色
 - **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2021 年 2 月 5 日
-- **相关链接**：[GB](https://geekhack.org/index.php?topic=111031.0) | [购买链接](https://www.zfrontier.com/app/mch/lqXN8wb2zN31)
+- **发售时间**：2024 年 4 月 23 日
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/3qMypGv397qA)
 
-又是 Biip 的作品，很有想法的一套键帽，字符让我想起 [Flow Circular](https://fonts.google.com/specimen/Flow+Circular) 字体。
+> 设计将从声音/音乐及其周边器材入手，设计出一些区别于“Retro”系列风格的设计。
+>
+> 此系列配色会更加简洁，如 Pure Player 的名字一样，希望键帽的设计也能足够纯净纯粹，就像音乐一样。
+>
+> [设计灵感](https://www.bilibili.com/video/BV1ss411d7UC/)
+>
+> 声音原本是看不见摸不着的东西，但是却存在一种使声音看的见的技术。
+>
+> 藉由震动沙子或液体让声波可视化，从达芬奇开始就不断有跨界的科学家与艺术家在探索这种来自大自然的“共振”之美。
+>
+> —— Mars
 
 ### Retro100
 
@@ -218,6 +213,34 @@ lastmod: 2024-05-20
 > 灵感来源于佳能于 1982 年自产搭载牙膏 8088cpu 的 micro computer：AS-100 基本配色来源于 AS-100 配套键盘上的键帽，点缀颜色以及图形设计来源于 AS-100 宣传海报上电脑系统的配色和 UI。
 >
 > —— Mars
+
+### 喵兜
+
+![](assets/image-20240331213532782.webp "来源：https://www.zfrontier.com/app/flow/gdgBpY7jOX9v")
+
+- **设计**：KeyBye Lab
+- **制造**：恩溶科技
+- **高度**：Cherry 原厂高度
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2024 年 1 月 11 日
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/J7Wan3x0vrJR)
+
+### Dots
+
+![](assets/image-20240406162653668.webp "来源：https://www.zfrontier.com/app/flow/N3a8w1rRoPjx")
+
+- **设计**：Biip
+- **制造**：GMK
+- **高度**：Cherry 原厂高度
+- **材质**：ABS
+- **工艺**：二色
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2021 年 2 月 5 日
+- **相关链接**：[GB](https://geekhack.org/index.php?topic=111031.0) | [购买链接](https://www.zfrontier.com/app/mch/lqXN8wb2zN31)
+
+很有想法的一套键帽，字符让我想起 [Flow Circular](https://fonts.google.com/specimen/Flow+Circular) 字体。
 
 ### Poco
 
@@ -263,44 +286,6 @@ lastmod: 2024-05-20
 >
 > —— Mars
 
-### Tyche-One
-
-![](assets/image-20240319225910198.webp "来源：https://www.zfrontier.com/app/flow/9QjzmaBWBNga")
-
-- **设计**：Chaucer
-- **高度**：Cherry 原厂高度
-- **材质**：PBT
-- **工艺**：热升华
-- **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2022 年 9 月 8 日
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/9QjzmaBWBNga)
-
-### 喵兜
-
-![](assets/image-20240331213532782.webp "来源：https://www.zfrontier.com/app/flow/gdgBpY7jOX9v")
-
-- **设计**：KeyBye Lab
-- **制造**：恩溶科技
-- **高度**：Cherry 原厂高度
-- **材质**：PBT
-- **工艺**：热升华
-- **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2024 年 1 月 11 日
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/J7Wan3x0vrJR)
-
-### 月球人
-
-![](assets/image-20240402133922724.webp "来源：https://www.zfrontier.com/app/flow/29oyOxEkKk3O")
-
-- **设计**：Mink
-- **制造**：Geekark
-- **高度**：Cherry 原厂高度
-- **材质**：PBT
-- **工艺**：热升华
-- **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2021 年 5 月 15 日
-- **相关链接**：[IC](https://www.zfrontier.com/app/flow/29oyOxEkKk3O)
-
 ### ЯUBBER
 
 ![](assets/image-20240406145343985.webp "来源：https://www.zfrontier.com/app/flow/DrpzW33knjZn")
@@ -318,48 +303,63 @@ lastmod: 2024-05-20
 >
 > —— Manuel
 
-### Pure Player: Vibrato
+### Tyche-One
 
-![](assets/image-20240518234214321.png "来源：https://www.zfrontier.com/app/flow/oyBLwOkldr5w")
+![](assets/image-20240319225910198.webp "来源：https://www.zfrontier.com/app/flow/9QjzmaBWBNga")
 
-- **设计**：Mars
-- **制造**：Keykobo
+- **设计**：Chaucer
 - **高度**：Cherry 原厂高度
-- **材质**：ABS
-- **工艺**：二色
+- **材质**：PBT
+- **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2024 年 4 月 23 日
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/3qMypGv397qA)
+- **发售时间**：2022 年 9 月 8 日
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/9QjzmaBWBNga)
 
-> 设计将从声音/音乐及其周边器材入手，设计出一些区别于“Retro”系列风格的设计。
->
-> 此系列配色会更加简洁，如 Pure Player 的名字一样，希望键帽的设计也能足够纯净纯粹，就像音乐一样。
->
-> [设计灵感](https://www.bilibili.com/video/BV1ss411d7UC/)
->
-> 声音原本是看不见摸不着的东西，但是却存在一种使声音看的见的技术。
->
-> 藉由震动沙子或液体让声波可视化，从达芬奇开始就不断有跨界的科学家与艺术家在探索这种来自大自然的“共振”之美。
->
-> —— Mars
+### 月球人
 
-### ASTHA
+![](assets/image-20240402133922724.webp "来源：https://www.zfrontier.com/app/flow/29oyOxEkKk3O")
 
-![](assets/image-20240519000457632.png "来源：https://www.zfrontier.com/app/flow/6PyBRZpwzAdm")
+- **设计**：Mink
+- **制造**：Geekark
+- **高度**：Cherry 原厂高度
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2021 年 5 月 15 日
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/29oyOxEkKk3O)
 
-- **设计**：Dazon
+### Superuser
+
+![](assets/image-20240406153701688.webp "来源：https://novelkeys.com/products/kam-superuser")
+
+- **设计**：FreshFromTheGrave
 - **制造**：Keyreative
 - **高度**：KAM
 - **材质**：PBT
 - **工艺**：热升华
 - **兼容性**：Cherry MX 开关和 MX 类似风格
-- **发售时间**：2024 年 5 月 31 日
-- **相关链接**：[IC](https://geekhack.org/index.php?topic=122481.0)
+- **发售时间**：2021 年 2 月 1 日
+- **相关链接**：[GB](https://geekhack.org/index.php?topic=110967.0) | [购买链接](https://www.zfrontier.com/app/mch/lqXN8wb2zN31)
 
-> 在另一个与我们的宇宙相似的宇宙中，存在一个名为 {ASTHA} 的星球。为了了解他们，我们必须进行交流。为了交流，我们必须能够打字。
+除了爱了，其他说不出什么了。
+
+### 2048
+
+![](assets/image-20240404120039170.webp)
+
+- **设计**：Biip
+- **制造**：EnjoyPBT
+- **高度**：Cherry 原厂高度
+- **材质**：PBT
+- **工艺**：热升华
+- **兼容性**：Cherry MX 开关和 MX 类似风格
+- **发售时间**：2019 年 4 月 19 日
+- **相关链接**：[GB](https://www.keebtalk.com/t/gb-enjoypbt-extended-2048/5794)
+
+> Heavily inspired by the [AEKII](https://deskthority.net/wiki/Apple_Extended_Keyboard_II), the main idea was to create an icon based keyset with a neo-retro look, inspired by old Apple keyboards. I wanted to have something with a minimalistic but intuitive look, which explains the icons mods!
 >
-> 这套键帽是 {ASTHAN} 语言的体现，适用于简单的英文翻译。
+> I took time to re-think the kits, get rid of the useless stuff and basically made it simpler.
 >
-> 请重视使用它们。获取他们的智慧。
->
-> —— Dazon
+> —— Biip
+
+心目中最好看的一套键帽，刚入圈的时候就被这套键帽吸引，几年过去了，还是没有一套键帽可以取代它在我心目中的地位。
