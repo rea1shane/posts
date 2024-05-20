@@ -17,26 +17,15 @@ lastmod: 2024-05-20
 [^1]: 为了解决键盘的空腔音问题，填充物俗称声音包。
 [^2]: 如铭牌等装饰件。
 
-### Navi 70
+### Class 80
 
-![](assets/image-20240318231953819.webp "来源：https://www.zfrontier.com/app/flow/bO79L6qR6rQV")
+![](assets/image-20240406144426669.webp "来源：https://www.zfrontier.com/app/flow/K3zO5Xk7rBk9")
 
-- **设计**：Matrix Lab
-- **配列**：70%
-- **发售时间**：2023 年 5 月 10 日
-- **发售价格**：￥3500
-
-目前心目中的最佳 70% 配列。
-
-### Spring
-
-![](assets/image-20240404114635025.webp "来源：https://www.zfrontier.com/app/flow/4Km1OrdRJoK9")
-
-- **设计**：OwLab
-- **配列**：Alice
-- **发售时间**：2022 年 1 月 11 日
-- **发售价格**：￥2100 起
-- **相关链接**：[IC](https://www.zfrontier.com/app/flow/4XLWOk7jXMKl)
+- **设计**：M-M Studio
+- **配列**：80%
+- **发售时间**：2023 年 10 月 25 日
+- **发售价格**：￥1950 起
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/VL9EObV1Mjzm)
 
 ### SONIC 170
 
@@ -48,6 +37,47 @@ lastmod: 2024-05-20
 - **发售价格**：￥1799 起
 - **相关链接**：[GB](https://www.zfrontier.com/app/flow/wJ9bg5ZpvMXp)
 
+### Navi 70
+
+![](assets/image-20240318231953819.webp "来源：https://www.zfrontier.com/app/flow/bO79L6qR6rQV")
+
+- **设计**：Matrix Lab
+- **配列**：70%
+- **发售时间**：2023 年 5 月 10 日
+- **发售价格**：￥3500
+
+目前心目中的最佳 70% 配列。
+
+### TPS 40
+
+![](assets/image-20240406164009613.webp "来源：https://www.zfrontier.com/app/flow/wwPby75zBKx6")
+
+- **设计**：Openkey Design
+- **配列**：40%
+- **发售时间**：2023 年 3 月 18 日
+- **发售价格**：￥1849 起
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/7paR8OyQ7Lnn) | [GB](https://www.zfrontier.com/app/flow/mdG0VdKEQ87a)
+
+### Razor 65
+
+![](assets/image-20240319131608330.webp "来源：https://www.zfrontier.com/app/flow/EPobwwPArmB5")
+
+- **设计**：TWP WORKS
+- **配列**：65%
+- **发售时间**：2023 年 2 月 28 日
+- **发售价格**：￥949 起
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/xA3gZqmxjyyM)
+
+### Harpe 65
+
+![](assets/image-20240319222207845.webp "来源：https://www.zfrontier.com/app/flow/293YaqglXwXO")
+
+- **设计**：404
+- **配列**：65%
+- **发售时间**：2022 年 10 月 23 日
+- **发售价格**：￥999 起
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/LalzmdmQERqW)
+
 ### PT990
 
 ![](assets/image-20240318232628309.webp "来源：https://www.zfrontier.com/app/flow/8Xwg7KRWnWgm")
@@ -57,6 +87,26 @@ lastmod: 2024-05-20
 - **发售时间**：2022 年 10 月 7 日
 - **发售价格**：￥2699 起
 - **相关链接**：[IC](https://www.zfrontier.com/app/flow/pvaxm9BgkwyO)
+
+### AQUILA
+
+![](assets/image-20240331223013575.webp "来源：https://www.zfrontier.com/app/flow/W0EmdPZL6NNN")
+
+- **设计**：K 星工作室
+- **配列**：65%
+- **发售时间**：2022 年 8 月 2 日
+- **发售价格**：￥1399 起
+- **相关链接**：[GB](https://www.zfrontier.com/app/flow/enkazVPQjgyg)
+
+### 8XV 3.0
+
+![](assets/image-20240318235738323.webp "来源：https://www.zfrontier.com/app/flow/m58dwMPn9GJb")
+
+- **设计**：Matrix Lab
+- **配列**：80%
+- **发售时间**：2022 年 1 月 17 日
+- **发售价格**：￥3300 起
+- **相关链接**：[GB](https://shimo.im/docs/WGK89JQCYrRvjqtk/read)
 
 ### Space 65
 
@@ -69,75 +119,15 @@ lastmod: 2024-05-20
 - **发售价格**：￥2299 起
 - **相关链接**：[GB](https://www.zfrontier.com/app/flow/2JkkaEAxjzaM) | [组装视频](https://www.youtube.com/watch?v=XqE8re3CsGU)
 
-### Razor 65
+### Spring
 
-![](assets/image-20240319131608330.webp "来源：https://www.zfrontier.com/app/flow/EPobwwPArmB5")
+![](assets/image-20240404114635025.webp "来源：https://www.zfrontier.com/app/flow/4Km1OrdRJoK9")
 
-- **设计**：TWP WORKS
-- **配列**：65%
-- **发售时间**：2023 年 2 月 28 日
-- **发售价格**：￥949 起
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/xA3gZqmxjyyM)
-
-### 8XV 3.0
-
-![](assets/image-20240318235738323.webp "来源：https://www.zfrontier.com/app/flow/m58dwMPn9GJb")
-
-- **设计**：Matrix Lab
-- **配列**：80%
-- **发售时间**：2022 年 1 月 17 日
-- **发售价格**：￥3300 起
-- **相关链接**：[GB](https://shimo.im/docs/WGK89JQCYrRvjqtk/read)
-
-### Class 80
-
-![](assets/image-20240406144426669.webp "来源：https://www.zfrontier.com/app/flow/K3zO5Xk7rBk9")
-
-- **设计**：M-M Studio
-- **配列**：80%
-- **发售时间**：2023 年 10 月 25 日
-- **发售价格**：￥1950 起
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/VL9EObV1Mjzm)
-
-### NCR 80
-
-![](assets/image-20240317230441366.webp "来源：https://www.zfrontier.com/app/flow/MyXYodVEVEdv")
-
-- **设计**：九九
-- **配列**：80%
-- **发售时间**：2021 年 4 月 6 日
-- **发售价格**：￥399 起
-- **相关链接**：[IC](https://www.zfrontier.com/app/flow/D7OvzYkKp7rE)
-
-### Harpe 65
-
-![](assets/image-20240319222207845.webp "来源：https://www.zfrontier.com/app/flow/293YaqglXwXO")
-
-- **设计**：404
-- **配列**：65%
-- **发售时间**：2022 年 10 月 23 日
-- **发售价格**：￥999 起
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/LalzmdmQERqW)
-
-### AQUILA
-
-![](assets/image-20240331223013575.webp "来源：https://www.zfrontier.com/app/flow/W0EmdPZL6NNN")
-
-- **设计**：K 星工作室
-- **配列**：65%
-- **发售时间**：2022 年 8 月 2 日
-- **发售价格**：￥1399 起
-- **相关链接**：[GB](https://www.zfrontier.com/app/flow/enkazVPQjgyg)
-
-### TPS 40
-
-![](assets/image-20240406164009613.webp "来源：https://www.zfrontier.com/app/flow/wwPby75zBKx6")
-
-- **设计**：Openkey Design
-- **配列**：40%
-- **发售时间**：2023 年 3 月 18 日
-- **发售价格**：￥1849 起
-- **相关链接**：[IC](https://www.zfrontier.com/app/flow/7paR8OyQ7Lnn) | [GB](https://www.zfrontier.com/app/flow/mdG0VdKEQ87a)
+- **设计**：OwLab
+- **配列**：Alice
+- **发售时间**：2022 年 1 月 11 日
+- **发售价格**：￥2100 起
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/4XLWOk7jXMKl)
 
 ### Phase One 65
 
@@ -148,6 +138,16 @@ lastmod: 2024-05-20
 - **发售时间**：2021 年 9 月 24 日
 - **发售价格**：￥2897 起
 - **相关链接**：[GB](https://www.zfrontier.com/app/flow/2g8QlmxGvkbo)
+
+### NCR 80
+
+![](assets/image-20240317230441366.webp "来源：https://www.zfrontier.com/app/flow/MyXYodVEVEdv")
+
+- **设计**：九九
+- **配列**：80%
+- **发售时间**：2021 年 4 月 6 日
+- **发售价格**：￥399 起
+- **相关链接**：[IC](https://www.zfrontier.com/app/flow/D7OvzYkKp7rE)
 
 ## 键帽
 
