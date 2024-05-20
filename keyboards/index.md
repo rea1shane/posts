@@ -153,7 +153,7 @@ lastmod: 2024-05-20
 
 ### ASTHA
 
-![](assets/image-20240519000457632.png "来源：https://www.zfrontier.com/app/flow/6PyBRZpwzAdm")
+![](assets/image-20240520104929197.png "来源：https://geekhack.org/index.php?topic=122481.0")
 
 - **设计**：Dazon
 - **制造**：Keyreative
