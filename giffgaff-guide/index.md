@@ -51,6 +51,10 @@ giffgaff 卡是一张免费的 SIM 卡。
 
 https://bx7h0mz5l4n.feishu.cn/wiki/WnM2wvDoMiBqwmkR7rKc0YbQnwE
 
+https://bx7h0mz5l4n.feishu.cn/wiki/TosEw1G2Sim8I1kCwS1cA7xnn0f
+
+https://bx7h0mz5l4n.feishu.cn/wiki/TZu4wTlY2idfoSkWPT2ctpSenrh
+
 ## 注意事项
 
 此部分内容建议仔细浏览，以免造成不必要的损失。
@@ -163,17 +167,19 @@ https://bx7h0mz5l4n.feishu.cn/wiki/JvoTw6i0WiUj1NkRcjTcS4yInfP
 
 ## 常见问题
 
-### 注册各类 App 账号时提示手机号码不正确?
-
-国际区号选择 UK（英国）或 +44，去掉国内区号 0，输入 7 开头的 10 位数字号码即可。
-
 ### 能否挑选号码？
 
 号码是在首次充值话费后，由系统随机分配的，后续可以在官网申请重新随机号码 2 次。
 
-### 实体卡转为 eSIM 后还能继续使用吗?
+### 为什么无法上网？
 
-不能。一旦转移成功，实体卡很快就会丢失信号，直接按照废卡处理即可。
+如果需要上网，需要打开 giffgaff 卡的网络功能和数据漫游功能。
+
+{{< admonition warning >}}
+
+giffgaff 的数据漫游非常昂贵（详情见 [资费](#资费) 部分），请在不需要使用网络时及时关闭相关设置。
+
+{{< /admonition >}}
 
 ### 为什么发不出短信或打不出电话？
 
@@ -189,11 +195,19 @@ https://bx7h0mz5l4n.feishu.cn/wiki/JvoTw6i0WiUj1NkRcjTcS4yInfP
 
 相关问题：[为什么发不出短信或打不出电话？](#为什么发不出短信或打不出电话)
 
+### 注册各类 App 账号时提示手机号码不正确?
+
+国际区号选择 UK（英国）或 +44，去掉国内区号 0，输入 7 开头的 10 位数字号码即可。
+
 ### 免费 giffgaff 通话和短信服务是什么？到期了会有什么影响？是否影响保号？
 
 首先回答最后一个问题，不会影响保号。
 
 免费 giffgaff 通话和短信服务为用户每次充值后的福利，该服务仅作用于身处英国的 giffgaff 用户之间。不在英国的用户无需关心此服务，到期了也不会有任何影响。
+
+### 实体卡转为 eSIM 后还能继续使用吗?
+
+不能。一旦转移成功，实体卡很快就会丢失信号，直接按照废卡处理即可。
 
 ## 最后
 
