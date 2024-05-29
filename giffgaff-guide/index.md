@@ -2,8 +2,8 @@
 title: giffgaff 指南
 summary: 一张支持全球漫游、无需实名的英国 SIM 卡。
 tags: [sim, giffgaff]
-date: 2024-05-28
-lastmod: 2024-05-28
+date: 2024-05-29
+lastmod: 2024-05-29
 ---
 
 ![](assets/image-20240516140722211.png)
@@ -30,7 +30,7 @@ giffgaff 的套餐仅能够在英国本土使用，无法在英国境外使用�
 
 在英国境外使用 giffgaff 属于漫游，各个地区的漫游资费都不同，可以通过 [Roaming with giffgaff](https://www.giffgaff.com/roaming-charges) 查询。
 
-giffgaff 没有提供针对中国的漫游套餐。下面的表格为 2024 年 5 月 28 日的中国地区漫游资费快照：
+giffgaff 没有提供针对中国的漫游套餐。下面的表格为 2024 年 5 月 29 日的中国地区漫游资费快照：
 
 | 项目                     | 资费       |
 | ---------------------- | -------- |
@@ -42,13 +42,29 @@ giffgaff 没有提供针对中国的漫游套餐。下面的表格为 2024 年 5
 | 向英国/欧盟手机发送图片信息（彩信）     | 30p 每条   |
 | 向任何其他手机发送图片信息（彩信）      | 24p 每条   |
 
-其中 `£` 为英镑，`p` 为便士（penny），£1 等于 100p。
+其中 £ 为英镑，p 为便士（penny），£1 等于 100p。
 
 ## 获取途径
 
-giffgaff 卡是一张免费的 SIM 卡。
+虽然 giffgaff 卡是一张免费的 SIM 卡，可以免费在官方申请，但是丢件概率极高，如果不丢件，也需要很久才能寄到，所以建议在淘宝等平台或者其它渠道进行购买。
 
 ## 激活
+
+{{< admonition important >}}
+
+在开始激活之前，建议仔细阅读一遍 [注意事项](#注意事项) 部分，事先了解激活后需要执行的操作，以免造成不必要的损失。
+
+{{< /admonition >}}
+
+### 前提
+
+激活过程中需要充值话费，充值需要用到 MasterCard 或 VISA 的信用卡，如果没有，可以在淘宝等平台购买 giffgaff 充值券。
+
+### 创建账号
+
+https://www.giffgaff.com/auth/register
+
+### 通过网页激活
 
 https://bx7h0mz5l4n.feishu.cn/wiki/WnM2wvDoMiBqwmkR7rKc0YbQnwE
 
@@ -122,10 +138,6 @@ https://bx7h0mz5l4n.feishu.cn/wiki/ZJdEwmlbbiaI6QkBqPMcrIecn3d
 
 小米手机用户插卡前，请先到系统设置里搜索“免费网络短信”功能并关闭，否则插卡后，系统有可能会发一条短信给服务器，造成 £0.3 的扣费。
 
-## 在实体卡与 eSIM 之间进行转换
-
-还没有支持 eSIM 的设备，等以后有了再填坑😅。有需求的可以查看 [这篇教程](https://bx7h0mz5l4n.feishu.cn/wiki/Lqa9wFUG2i29WAkEQKIcSqMEnyd) 和 [相关问题](#实体卡转为-esim-后还能继续使用吗)。
-
 ## 常用操作
 
 ### 查询手机号码
@@ -150,14 +162,6 @@ https://www.giffgaff.com/profile/usage-statement
 
 ## 不常用操作
 
-### 修改密码
-
-https://bx7h0mz5l4n.feishu.cn/wiki/KlQkwIg6Mi6MLHk78MncsFjynrB
-
-### 修改邮箱
-
-https://bx7h0mz5l4n.feishu.cn/wiki/Q0HmwX3l0iHIxlkZfr6cY7kbnig
-
 ### 换号
 
 https://bx7h0mz5l4n.feishu.cn/wiki/BQNfwBqoliiDJikHM5nccWILn3b
@@ -165,6 +169,10 @@ https://bx7h0mz5l4n.feishu.cn/wiki/BQNfwBqoliiDJikHM5nccWILn3b
 ### 换卡
 
 https://bx7h0mz5l4n.feishu.cn/wiki/JvoTw6i0WiUj1NkRcjTcS4yInfP
+
+### 在实体卡与 eSIM 之间进行转换
+
+还没有支持 eSIM 的设备，等以后有了再填坑😅。有需求的可以查看 [这篇教程](https://bx7h0mz5l4n.feishu.cn/wiki/Lqa9wFUG2i29WAkEQKIcSqMEnyd) 和 [相关问题](#实体卡转为-esim-后还能继续使用吗)。
 
 ## 常见问题
 
