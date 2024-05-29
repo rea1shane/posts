@@ -17,7 +17,7 @@ giffgaff 提供实体 SIM 卡与 eSIM 服务。
 - 支持全球漫游，网络使用的是英国原生 IP。在中国可以通过中国移动或中国联通进行漫游，支持 2G、3G、4G 和 5G 网络。
 - 无需实名。
 - 提供 0 月租套餐。
-- 大陆绝大部分地区可以直连访问 [官方网站](https://www.giffgaff.com/)，可线上自助激活、充值、换卡，免费换号、eSIM 与实体卡互转等服务。
+- 大陆绝大部分地区可以直连访问 [官方网站](https://www.giffgaff.com/)，可线上完成激活、充值、换卡、换号、eSIM 与实体卡互转等服务。
 - 非虚拟号码。
 
 ## 用途
@@ -28,9 +28,7 @@ giffgaff 提供实体 SIM 卡与 eSIM 服务。
 
 giffgaff 的套餐仅能够在英国本土使用，无法在英国境外使用。giffgaff 提供 Pay as you go 无月租选项。
 
-在英国境外使用 giffgaff 属于漫游，各个地区的漫游资费都不同，可以通过 [Roaming with giffgaff](https://www.giffgaff.com/roaming-charges) 查询。
-
-giffgaff 没有提供针对中国的漫游套餐。下面的表格为 2024 年 5 月 29 日的中国地区漫游资费快照：
+在英国境外使用 giffgaff 属于漫游，各个地区的漫游资费都不同，可以通过 [Roaming with giffgaff](https://www.giffgaff.com/roaming-charges) 查询。下面的表格为 2024 年 5 月 29 日的中国地区漫游资费快照：
 
 | 项目                     | 资费       |
 | ---------------------- | -------- |
@@ -46,7 +44,7 @@ giffgaff 没有提供针对中国的漫游套餐。下面的表格为 2024 年 5
 
 ## 获取途径
 
-虽然 giffgaff 卡是一张免费的 SIM 卡，可以免费在官方申请，但是丢件概率极高，如果不丢件，也需要很久才能寄到，所以建议在淘宝等平台或者其它渠道进行购买。
+虽然 giffgaff 卡可以免费在官方网站申请，但是丢件概率极高，如果运气好不丢件，也需要很久才能寄到，所以建议在淘宝等平台或者其它渠道进行购买。
 
 ## 激活
 
@@ -58,7 +56,7 @@ giffgaff 没有提供针对中国的漫游套餐。下面的表格为 2024 年 5
 
 ### 前提
 
-激活过程中需要充值话费，充值需要用到 MasterCard 或 VISA 的信用卡，如果没有，可以在淘宝等平台购买 giffgaff 充值券。
+giffgaff 卡激活过程中需要充值话费，充值需要用到 MasterCard 或 VISA 的信用卡，如果没有，可以在淘宝等平台购买 giffgaff 充值券。
 
 ### 创建账号
 
@@ -82,7 +80,7 @@ https://bx7h0mz5l4n.feishu.cn/wiki/WnM2wvDoMiBqwmkR7rKc0YbQnwE
 
 {{< /admonition >}}
 
-在国内，想要保持 SIM 卡活跃，最低成本的操作方式就是**每 6 个月内发送一条短信**，发送对象是国内外手机号码均可以。如果不知道发送给谁，可以发送给 `+44 797 300 0186`，这是 [CMLink](https://www.cmlink.com/id/) 的客服电话，发送格式为 `0044 7973000186`。
+在国内，想要保持 SIM 卡活跃，最低成本的操作方式就是**每 6 个月内发送一条短信**，发送对象是国内外手机号码均可以。如果不知道发送给谁，可以发送给 `+44 797 300 0186`，这是 [CMLink](https://www.cmlink.com/id/) 的客服电话，收信电话填写格式为 `0044 7973000186`。
 
 {{< admonition tip >}}
 
@@ -214,7 +212,7 @@ giffgaff 的数据漫游非常昂贵（详情见 [资费](#资费) 部分），�
 
 本文为我根据自己的场景整理出的 giffgaff 指南，可以覆盖到大部分用户。
 
-本文的部分内容基于 [giffgaff 中国玩家指南](https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh) 整理，在此感谢文档的维护者，也欢迎加入其 [telegram 群组](https://t.me/Giffgaff_China) 进行讨论。
+本文的部分内容基于 [giffgaff 中国玩家指南](https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh) 整理，在此感谢文档的维护者，也欢迎加入其 [telegram 群组](https://t.me/Giffgaff_China) 进行交流。
 
 <!--
 - [新玩意 178｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/88142) - 5ber 实体 eSIM 卡
