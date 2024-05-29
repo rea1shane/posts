@@ -68,9 +68,7 @@ https://www.giffgaff.com/auth/register
 
 https://bx7h0mz5l4n.feishu.cn/wiki/WnM2wvDoMiBqwmkR7rKc0YbQnwE
 
-[预付卡插入手机多久才有信号](https://bx7h0mz5l4n.feishu.cn/wiki/TosEw1G2Sim8I1kCwS1cA7xnn0f)
-
-https://bx7h0mz5l4n.feishu.cn/wiki/TZu4wTlY2idfoSkWPT2ctpSenrh
+通常插卡后 1 到 15 分钟才会有信号。
 
 ## 注意事项
 
@@ -121,10 +119,6 @@ iOS：
 Android：
 
 ![](assets/image-20240516104802798.png)
-
-### 运营商信号
-
-https://bx7h0mz5l4n.feishu.cn/wiki/ZJdEwmlbbiaI6QkBqPMcrIecn3d
 
 ### 额外注意事项
 
