@@ -216,10 +216,10 @@ giffgaff 的数据漫游非常昂贵（详情见 [资费](#资费) 部分），�
 
 本文的部分内容基于 [giffgaff 中国玩家指南](https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh) 整理，在此感谢文档的维护者，也欢迎加入其 [telegram 群组](https://t.me/Giffgaff_China) 进行讨论。
 
-## 相关链接
-
+<!--
 - [新玩意 178｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/88142) - 5ber 实体 eSIM 卡
 - [eSIM 转 SIM 实体卡 | 回声](https://iecho.cc/2023/10/20/Convert-eSIM-to-physical-SIM/)
 - [2024年英国的0月租GiffGaff卡申请与激活使用 | Polaris的小站](https://www.lpolaris.com/article/giffgaff)
 - [giffgaff保姆级使用教程2024](https://giffgaffsim.notion.site/giffgaff-2024-e62d10bf0e944a129bc31c5b0d240f8d)
 - [Giffgaff eSIM 上车指南 | MyKeyVans’ Notion](https://notion.mykeyvans.space/article/giffgaff-esim)
+--!>
