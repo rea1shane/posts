@@ -60,11 +60,11 @@ giffgaff 的套餐仅能够在英国本土使用，无法在英国境外使用�
 
 ### 前提
 
-giffgaff 卡激活过程中需要充值话费，充值需要用到 MasterCard 或 VISA 的信用卡，如果没有，可以在淘宝等平台购买 giffgaff 充值券。
+giffgaff 卡激活过程中需要充值话费，充值需要用到 Mastercard 或 VISA 的信用卡，如果没有，可以在淘宝等平台购买 giffgaff 充值券。
 
 ### 创建账号
 
-https://www.giffgaff.com/auth/register
+首先通过 https://www.giffgaff.com/auth/register 注册账号。
 
 ### 通过网页激活
 
@@ -100,7 +100,7 @@ https://bx7h0mz5l4n.feishu.cn/wiki/WnM2wvDoMiBqwmkR7rKc0YbQnwE
 
 {{< admonition note >}}
 
-有些用户在官方网站、App、短信中看到有 3 个月到期的提醒文字，此处指的是免费 giffgaff 通话和短信服务，和保号无关。详情见 [相关问题](#免费-giffgaff-通话和短信服务是什么到期了会有什么影响是否影响保号)。
+如果你在官方网站、App、短信中有看到  free giffgaff to giffgaff calls and texts 的到期提醒，无需在意，此提醒与保号无关，详情见 [相关问题](#免费-giffgaff-通话和短信服务是什么到期了会有什么影响是否影响保号)。
 
 {{< /admonition >}}
 
@@ -226,11 +226,9 @@ giffgaff 的数据漫游非常昂贵（详情见 [资费](#资费) 部分），�
 
 不能。一旦转移成功，实体卡很快就会丢失信号，直接按照废卡处理即可。
 
-## 最后
+## 鸣谢
 
-本文为我根据自己的场景整理出的 giffgaff 指南，可以覆盖到大部分用户。
-
-本文的部分内容基于 [giffgaff 中国玩家指南](https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh) 整理，在此感谢文档的维护者，也欢迎加入其 [telegram 群组](https://t.me/Giffgaff_China) 进行交流。
+本文部分内容基于 [giffgaff 中国玩家指南](https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh) 整理，在此感谢文档的维护者，也欢迎加入其 [Telegram 群组](https://t.me/Giffgaff_China) 进行交流。
 
 <!--
 - [新玩意 178｜少数派的编辑们最近买了啥？ - 少数派](https://sspai.com/post/88142) - 5ber 实体 eSIM 卡
