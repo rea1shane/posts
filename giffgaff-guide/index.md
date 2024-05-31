@@ -166,6 +166,8 @@ https://www.giffgaff.com/profile/payment-details
 
 https://www.giffgaff.com/profile/usage-statement
 
+<!--
+
 ## 不常用操作
 
 ### 换号
@@ -179,6 +181,8 @@ https://bx7h0mz5l4n.feishu.cn/wiki/JvoTw6i0WiUj1NkRcjTcS4yInfP
 ### 在实体卡与 eSIM 之间进行转换
 
 还没有支持 eSIM 的设备，等以后有了再填坑😅。有需求的可以查看 [这篇教程](https://bx7h0mz5l4n.feishu.cn/wiki/Lqa9wFUG2i29WAkEQKIcSqMEnyd) 和 [相关问题](#实体卡转为-esim-后还能继续使用吗)。
+
+-->
 
 ## 常见问题
 
@@ -220,9 +224,13 @@ giffgaff 的数据漫游非常昂贵（详情见 [资费](#资费) 部分），�
 
 免费 giffgaff 通话和短信服务为用户每次充值后的福利，该服务仅作用于身处英国的 giffgaff 用户之间。不在英国的用户无需关心此服务，到期了也不会有任何影响。
 
+<!--
+
 ### 实体卡转为 eSIM 后还能继续使用吗?
 
 不能。一旦转移成功，实体卡很快就会丢失信号，直接按照废卡处理即可。
+
+-->
 
 ## 鸣谢
 
@@ -234,4 +242,4 @@ giffgaff 的数据漫游非常昂贵（详情见 [资费](#资费) 部分），�
 - [2024年英国的0月租GiffGaff卡申请与激活使用 | Polaris的小站](https://www.lpolaris.com/article/giffgaff)
 - [giffgaff保姆级使用教程2024](https://giffgaffsim.notion.site/giffgaff-2024-e62d10bf0e944a129bc31c5b0d240f8d)
 - [Giffgaff eSIM 上车指南 | MyKeyVans’ Notion](https://notion.mykeyvans.space/article/giffgaff-esim)
---!>
+-->
