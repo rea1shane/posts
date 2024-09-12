@@ -363,10 +363,6 @@ GIF 同理，语法：
 
 ## Video 视频
 
-{{< admonition tip >}}
-本示例视频包含声音。
-{{< /admonition >}}
-
 语法：
 
 ```html
