@@ -1,5 +1,5 @@
 ---
-title: OpenAI 登录失败：获取您的 SSO 信息时出错
+title: OpenAI 登录时报错：获取您的 SSO 信息时出错
 summary: 在登录 OpenAI 时遇到的一个匪夷所思的问题，解决了，但是没有完全解决。
 tags: [OpenAI]
 date: 2024-09-13
